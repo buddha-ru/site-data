@@ -1,0 +1,192 @@
+---
+- title: Весенние учения
+  themes:
+  - title: Наставления, как проводить аналитические медитации по темам Ламрима
+    buddha_node: 356
+    geshe_node: 2019
+    record: 2019
+  - title: Необычная Гуру-Йога
+    buddha_node: 357
+    geshe_node: 2030
+    record: 2030
+- title: Ретрит в Ершово
+  themes:
+  - title: Комментарий на тексты по практике Лоджонг
+    buddha_node: 342
+    geshe_node: 1979
+    annotation: 37 практик Бодхисаттвы Тхогме Занпо
+    record: 1979
+- title: Осенние учения
+  themes:
+  - title: Медитация на Ламрим
+    buddha_node: 343
+    geshe_node: 2001
+    record: 2001
+  - title: Практика необычной Гуру-йоги
+    buddha_node: 344
+    geshe_node: 1996
+    record: 1996
+- title: Весенние учения
+  themes:
+  - title: Четыре благородные истины
+    buddha_node: 326
+    geshe_node: 1782
+    record: 1782
+  - title: Практика необычной Гуру-йоги
+    buddha_node: 328
+    geshe_node: 1791
+    record: 1791
+- title: Осенние учения
+  themes:
+  - title: Укрощение ума
+    buddha_node: 312
+    geshe_node: 1772
+    record: 1772
+  - title: Практика необычной Гуру-йоги
+    buddha_node: 313
+    geshe_node: 1779
+    record: 1779
+- title: Ретрит в Ершово
+  themes:
+  - title: Комментарий на тексты по практике Лоджонг.
+    buddha_node: 314
+    geshe_node: 1711
+    annotation: По тексту "Драгоценные чётки бодхисаттвы" Атишы
+    record: 1711
+- title: Весенние учения
+  themes:
+  - title: Четыре философские школы буддизма Часть3. Мадхьямика
+    buddha_node: 288
+    geshe_node: 1841
+    record: 1841
+  - title: Комментарий к практике необычной Гуру-йоги
+    buddha_node: 287
+    geshe_node: 1850
+    record: 1850
+- title: Осенние учения
+  themes:
+  - title: Четыре философские школы буддизма. Часть 2
+    buddha_node: 271
+    geshe_node: 1627
+    record: 1627
+  - title: Комментарий к практике необычной Гуру-йоги
+    buddha_node: 273
+    geshe_node: 1568
+    record: 1568
+- title: Ретрит в Ершово
+  themes:
+  - title: Комментарий на тексты по практике Лоджонг
+    buddha_node: 275
+    geshe_node: 1537
+    annotation: |
+      * Сердечное сокровище для тех, кто желает освобождения (Атиша)
+      * Колесо острых кинжалов (Атиша)
+    record: 1537
+- title: Весенние учения
+  themes:
+  - title: Четыре философские школы буддизма
+    buddha_node: 257
+    geshe_node: 1358
+    record: 1358
+  - title: Комментарий к практике необычной Гуру-йоги
+    buddha_node: 256
+    geshe_node: 1355
+    record: 1355
+- title: Осенние учения
+  themes:
+  - title: Медитация на Ламрим
+    buddha_node: 238
+    geshe_node: 1291
+    annotation: Комментарий, основанный на опыте
+    record: 1291
+  - title: Учение по Махамудре
+    buddha_node: 239
+    geshe_node: 1299
+    record: 1299
+- title: Ретрит в Ершово
+  themes:
+  - title: Учение Лоджонг(Ершово)
+    buddha_node: 237
+    geshe_node: 1270
+    record: 1270
+- title: Весенние учения
+  themes:
+  - title: Комментарий к Сутре Сердца (продолжение)
+    buddha_node: 217
+    geshe_node: 102
+    record: 102
+  - title: Шаматха (продолжение)
+    buddha_node: 218
+    geshe_node: 98
+    annotation: > 
+      Комментарий к практике Шаматха на основе Cреднего Ламрима Дже Цонкапы
+    record: 98
+- title: Осенние учения
+  themes:
+  - title: Комментарий к Сутре Сердца
+    buddha_node: 196
+    geshe_node: 131
+    record: 131
+  - title: Шаматха
+    buddha_node: 197
+    geshe_node: 125
+    annotation: >
+      Комментарий к практике Шаматха на основе Cреднего Ламрима Дже Цонкапы
+    record: 125
+- title: Весенние учения
+  themes:
+  - title: Четыре Благородные Истины
+    buddha_node: 182
+    geshe_node: 300
+    record: 300
+  - title: Медитация
+    buddha_node: 183
+    geshe_node: 295
+    record: 295
+  - title: Комментарий к Гуру-йоге Будды Ваджрадары
+    buddha_node: 184
+    geshe_node: 290
+    record: 290
+- title: Осенние учения
+  themes:
+  - title: Тренировка ума
+    buddha_node: 165
+    geshe_node: 313
+    record: 313
+  - title: Комментарий к необычной Гуру-йоге
+    buddha_node: 166
+    geshe_node: 454
+    record: 454
+- title: Весенние учения
+  themes:
+  - title: Шаматха медитация
+    buddha_node: 137
+    geshe_node: 445
+    record: 445
+- title: Осенние учения
+  themes:
+  - title: Развитие ума 
+    buddha_node: 113
+    geshe_node: 471
+    annotation: Лекции об уме и способах его совершенствования
+    record: 471
+  - title: Комментарий к Гуру-пудже
+    buddha_node: 115
+    geshe_node: 466
+    record: 466
+- title: Весенние учения
+  themes:
+  - title: Тантра и ясный свет
+    buddha_node: 40
+    geshe_node: 582
+    record: 582
+  - title: Стратегия тренировки ума
+    buddha_node: 80
+    geshe_node: 572
+    record: 572
+- title: Осенние учения
+  themes:
+  - title: Учение по тренировке ума
+    buddha_node: 41
+    geshe_node: 594
+    record: 594
