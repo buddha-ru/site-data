@@ -4,11 +4,11 @@
   <title>Весенние учения</title>
   <year>2015</year>
   <theme>
-    <page>2019</page>
+    <page>2015-spring-lamrim</page>
     <title>Наставления, как проводить аналитические медитации по темам Ламрима</title>
   </theme>
   <theme>
-    <page>2030</page>
+    <page>2015-spring-guru-yoga</page>
     <title>Необычная Гуру-Йога</title>
   </theme>
 </teachings>
@@ -17,11 +17,11 @@
   <title>Осенние учения</title>
   <year>2014</year>
   <theme>
-    <page>2001</page>
+    <page>2014-autumn-lamrim</page>
     <title>Медитация на Ламрим</title>
   </theme>
   <theme>
-    <page>1996</page>
+    <page>2014-autumn-guru-yoga</page>
     <title>Практика необычной Гуру-йоги</title>
   </theme>
 </teachings>
@@ -30,7 +30,7 @@
   <title>Ретрит в Ершово</title>
   <year>2014</year>
   <theme>
-    <page>1979</page>
+    <page>2014-ershovo</page>
     <title>Комментарий на тексты по практике Лоджонг</title>
     <annotation>37 практик Бодхисаттвы Тхогме Занпо</annotation>
   </theme>
@@ -40,11 +40,11 @@
   <title>Весенние учения</title>
   <year>2014</year>
   <theme>
-    <page>1782</page>
+    <page>2014-spring-four-noble-truths</page>
     <title>Четыре благородные истины</title>
   </theme>
   <theme>
-    <page>1791</page>
+    <page>2014-spring-guru-yoga</page>
     <title>Практика необычной Гуру-йоги</title>
   </theme>
 </teachings>
@@ -53,11 +53,11 @@
   <title>Осенние учения</title>
   <year>2013</year>
   <theme>
-    <page>1772</page>
+    <page>2013-autumn-mind-training</page>
     <title>Укрощение ума</title>
   </theme>
   <theme>
-    <page>1779</page>
+    <page>2013-autumn-guru-yoga</page>
     <title>Практика необычной Гуру-йоги</title>
   </theme>
 </teachings>
@@ -66,7 +66,7 @@
   <title>Ретрит в Ершово</title>
   <year>2013</year>
   <theme>
-    <page>1711</page>
+    <page>2013-ershovo</page>
     <title>Комментарий на тексты по практике Лоджонг.</title>
     <annotation>По тексту "Драгоценные чётки бодхисаттвы" Атишы</annotation>
   </theme>
@@ -76,11 +76,11 @@
   <title>Весенние учения</title>
   <year>2013</year>
   <theme>
-    <page>1841</page>
+    <page>2013-spring-four-phylosophy-schools</page>
     <title>Четыре философские школы буддизма Часть3. Мадхьямика</title>
   </theme>
   <theme>
-    <page>1850</page>
+    <page>2013-spring-guru-yoga</page>
     <title>Комментарий к практике необычной Гуру-йоги</title>
   </theme>
 </teachings>
@@ -89,11 +89,11 @@
   <title>Осенние учения</title>
   <year>2012</year>
   <theme>
-    <page>1627</page>
+    <page>2012-autumn-four-phylosophy-schools</page>
     <title>Четыре философские школы буддизма. Часть 2</title>
   </theme>
   <theme>
-    <page>1568</page>
+    <page>2012-autumn-guru-yoga</page>
     <title>Комментарий к практике необычной Гуру-йоги</title>
   </theme>
 </teachings>
@@ -102,7 +102,7 @@
   <title>Ретрит в Ершово</title>
   <year>2012</year>
   <theme>
-    <page>1537</page>
+    <page>2012-ershovo</page>
     <title>Комментарий на тексты по практике Лоджонг</title>
     <annotation>
 * Сердечное сокровище для тех, кто желает освобождения (Атиша)
@@ -115,11 +115,11 @@
   <title>Весенние учения</title>
   <year>2012</year>
   <theme>
-    <page>1358</page>
+    <page>2012-spring-four-phylosophy-schools</page>
     <title>Четыре философские школы буддизма</title>
   </theme>
   <theme>
-    <page>1355</page>
+    <page>2012-spring-guru-yoga</page>
     <title>Комментарий к практике необычной Гуру-йоги</title>
   </theme>
 </teachings>
@@ -128,12 +128,12 @@
   <title>Осенние учения</title>
   <year>2011</year>
   <theme>
-    <page>1291</page>
     <title>Медитация на Ламрим</title>
+    <page>2011-autumn-lamrim</page>
     <annotation>Комментарий, основанный на опыте</annotation>
   </theme>
   <theme>
-    <page>1299</page>
+    <page>2011-autumn-mahamudra</page>
     <title>Учение по Махамудре</title>
   </theme>
 </teachings>
@@ -142,7 +142,7 @@
   <title>Ретрит в Ершово</title>
   <year>2011</year>
   <theme>
-    <page>1270</page>
+    <page>2011-ershovo</page>
     <title>Учение Лоджонг(Ершово)</title>
   </theme>
 </teachings>
@@ -151,11 +151,11 @@
   <title>Весенние учения</title>
   <year>2011</year>
   <theme>
-    <page>102</page>
+    <page>2011-spring-heart-sutra</page>
     <title>Комментарий к Сутре Сердца (продолжение)</title>
   </theme>
   <theme>
-    <page>98</page>
+    <page>2011-spring-shamatha</page>
     <title>Шаматха (продолжение)</title>
     <annotation>Комментарий к практике Шаматха на основе Cреднего Ламрима Дже Цонкапы</annotation>
   </theme>
@@ -165,11 +165,11 @@
   <title>Осенние учения</title>
   <year>2010</year>
   <theme>
-    <page>131</page>
+    <page>2010-autumn-heart-sutra</page>
     <title>Комментарий к Сутре Сердца</title>
   </theme>
   <theme>
-    <page>125</page>
+    <page>2010-autumn-shamatha</page>
     <title>Шаматха</title>
     <annotation>Комментарий к практике Шаматха на основе Cреднего Ламрима Дже Цонкапы</annotation>
   </theme>
@@ -179,15 +179,15 @@
   <title>Весенние учения</title>
   <year>2010</year>
   <theme>
-    <page>300</page>
+    <page>2010-spring-four-noble-truths</page>
     <title>Четыре Благородные Истины</title>
   </theme>
   <theme>
-    <page>295</page>
+    <page>2010-spring-meditation</page>
     <title>Медитация</title>
   </theme>
   <theme>
-    <page>290</page>
+    <page>2010-spring-guru-yoga</page>
     <title>Комментарий к Гуру-йоге Будды Ваджрадары</title>
   </theme>
 </teachings>
@@ -196,11 +196,11 @@
   <title>Осенние учения</title>
   <year>2009</year>
   <theme>
-    <page>313</page>
+    <page>2009-autumn-mind-training</page>
     <title>Тренировка ума</title>
   </theme>
   <theme>
-    <page>454</page>
+    <page>2009-autumn-guru-yoga</page>
     <title>Комментарий к необычной Гуру-йоге</title>
   </theme>
 </teachings>
@@ -209,7 +209,7 @@
   <title>Весенние учения</title>
   <year>2009</year>
   <theme>
-    <page>445</page>
+    <page>2009-spring-shamatha</page>
     <title>Шаматха медитация</title>
   </theme>
 </teachings>
@@ -218,12 +218,12 @@
   <title>Осенние учения</title>
   <year>2008</year>
   <theme>
-    <page>471</page>
+    <page>2008-autumn-mind-training</page>
     <title>Развитие ума </title>
     <annotation>Лекции об уме и способах его совершенствования</annotation>
   </theme>
   <theme>
-    <page>466</page>
+    <page>2008-autumn-guru-yoga</page>
     <title>Комментарий к Гуру-пудже</title>
   </theme>
 </teachings>
@@ -232,11 +232,11 @@
   <title>Весенние учения</title>
   <year>2008</year>
   <theme>
-    <page>582</page>
+    <page>2008-spring-tantra</page>
     <title>Тантра и ясный свет</title>
   </theme>
   <theme>
-    <page>572</page>
+    <page>2008-spring-mind-training</page>
     <title>Стратегия тренировки ума</title>
   </theme>
 </teachings>
@@ -245,7 +245,7 @@
   <title>Осенние учения</title>
   <year>2007</year>
   <theme>
-    <page>594</page>
+    <page>2007-autumn-mind-training</page>
     <title>Учение по тренировке ума</title>
   </theme>
 </teachings>
