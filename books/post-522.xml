@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book>
+  <title>Буряты. Традиции и культура</title>
+  <year>1999</year>
+  <isbn>587679001x</isbn>
+  <publisher>Soyol</publisher>
+  <amount>1</amount>
+  <links>
+    <a href="http://www.buryatia.ru/buryats/index.html">Интернет-версия книги</a>
+  </links>
+  <cover>post-522.jpg</cover>
+  <outer_id>post-522</outer_id>
+</book>
