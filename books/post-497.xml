@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <book>
   <title>Kalachakra by Monks of Namgyal Monastery</title>
+  <authors>
+    <author>Laura Harrington</author>
+  </authors>
   <year>1996</year>
   <publisher>Tibet Domani</publisher>
   <amount>1</amount>

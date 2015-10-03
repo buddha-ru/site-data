@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <book>
   <title>Политика доброты. Сборник</title>
+  <authors>
+    <author>Ванье Кьюли</author>
+    <author>Далай-лама XIV Тензин Гьяцо</author>
+    <author>Джон Аведон</author>
+    <author>Пико Айер</author>
+  </authors>
   <year>1996</year>
   <publisher>Путь к себе</publisher>
   <amount>6</amount>
