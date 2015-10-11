@@ -4,6 +4,7 @@
   <publish_date>2008-04-18</publish_date>
   <buddha_node>87</buddha_node>
   <body>
+<![CDATA[
 Интервью Его Святейшества Далай-Ламы телеканалу NBC 11 апреля 2008
 годa. Ведущая Энн Корри. Перевод Юлии Жиронкиной.
 
@@ -32,10 +33,11 @@ image::old/images/int_11_04_2008.jpg[]
 Начало интервью - 5 минут:
 
 ++++
-&lt;embed src="http://www.veoh.com/swf/webplayer/WebPlayer.swf?version=AFrontend.5.7.0.1504&amp;permalinkId=v6989737AhEN4KB6&amp;player=videodetailsembedded&amp;videoAutoPlay=0&amp;id=anonymous" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="410" height="341" id="veohFlashPlayerEmbed" name="veohFlashPlayerEmbed"&gt;&lt;/embed&gt;
+<embed src="http://www.veoh.com/swf/webplayer/WebPlayer.swf?version=AFrontend.5.7.0.1504&permalinkId=v6989737AhEN4KB6&player=videodetailsembedded&videoAutoPlay=0&id=anonymous" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="410" height="341" id="veohFlashPlayerEmbed" name="veohFlashPlayerEmbed"></embed>
 ++++
 
 Источник: +
  http://www.savetibet.ru[www.savetibet.ru]
+]]>
   </body>
 </news>
