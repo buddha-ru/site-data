@@ -4,14 +4,15 @@
   <publish_date>2008-03-27</publish_date>
   <buddha_node>77</buddha_node>
   <body>
+<![CDATA[
 Группа молодых буддийских монахов сорвала пресс-конференцию,
 организованную 27 марта в Лхасе для иностранных журналистов, передает
 агентство Reuters.
 
 ++++
-&lt;div class='objectblock left'&gt;
-&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/5AS-4i7P43U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+<div class='objectblock left'>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/5AS-4i7P43U" frameborder="0" allowfullscreen></iframe>
+</div>
 ++++
 
 30 монахов ворвались в монастырь Джоканг, где проходил брифинг, и стали
@@ -41,5 +42,6 @@
 
 Источники: http://www.reuters.com[www.reuters.com] ,
 http://www.savetibet.tu[www.savetibet.tu]
+]]>
   </body>
 </news>

@@ -4,10 +4,11 @@
   <publish_date>2009-11-21</publish_date>
   <buddha_node>46</buddha_node>
   <body>
+<![CDATA[
 ++++
-&lt;div class='objectblock left'&gt;
-&lt;embed src="system/old/swf/white-tara.swf" width="300" height="300"/&gt;
-&lt;/div&gt;
+<div class='objectblock left'>
+<embed src="system/old/swf/white-tara.swf" width="300" height="300"/>
+</div>
 ++++
 
 *6 декабря* Досточтимым Геше Тинлеем будет даровано Благословение Белой
@@ -24,5 +25,6 @@
 *Начало в 14:00.*
 
 link:/content/?q=node/120[Показать схему проезда(пути пешком от метро)]
+]]>
   </body>
 </news>

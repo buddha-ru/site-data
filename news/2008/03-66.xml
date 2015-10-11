@@ -4,13 +4,14 @@
   <publish_date>2008-03-19</publish_date>
   <buddha_node>66</buddha_node>
   <body>
+<![CDATA[
 Я хотел бы воспользоваться этой возможностью, чтобы выразить мою
 глубокую благодарность мировым лидерам и международному сообществу за их
 беспокойство по недавнему печальному повороту событий в Тибете, и за их
 попытки убедить китайские власти проявлять сдержанность, имея дело с
 демонстрациями.
 
-&lt;&lt;&lt;
+<<<
 
 image::old/images/His_Holiness_Dalai-Lama.jpg[role='left']
 
@@ -69,5 +70,6 @@ image::old/images/His_Holiness_Dalai-Lama.jpg[role='left']
 Далай-лама, Dharamsala 18 марта 2008
 
 http://dalailama.com/news.218.htm
+]]>
   </body>
 </news>

@@ -4,6 +4,7 @@
   <publish_date>2008-03-20</publish_date>
   <buddha_node>67</buddha_node>
   <body>
+<![CDATA[
 Тысячи этнических тибетцев устроили акцию протеста в китайской
 провинции Ганьсу(исторически тибетская местность Амдо). Пешие и конные,
 они пытались штурмом взять административные здания, но военные отбили
@@ -14,9 +15,9 @@ http://www.ntv.ru/novosti/128578/[Репортаж НTB]
 Подробнее об этом событии в видеорепортаже Канадской телекомпании CTV на английском языке.
 
 ++++
-&lt;div class='objectblock left'&gt;
-&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/qxm2obArsBs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+<div class='objectblock left'>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/qxm2obArsBs" frameborder="0" allowfullscreen></iframe>
+</div>
 ++++
 
 Демонстрации в поддержку Тибета проходят в Индии, Непале, Таиланде. В
@@ -34,5 +35,6 @@ http://www.ntv.ru/novosti/128578/[Репортаж НTB]
 Штурмы дипмиссий и митинги стали ответом на недавние события в Лхасе,
 где китайские солдаты разогнали при помощи оружия демонстрацию
 буддийских монахов. В столкновениях погибли 13 человек, передает НТВ.
+]]>
   </body>
 </news>
