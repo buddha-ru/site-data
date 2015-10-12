@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <book>
   <title>Искусство быть счастливым на работе</title>
-  <authors>
-    <author>Говард К. Катлер</author>
-    <author>Далай-лама XIV Тензин Гьяцо</author>
-    <author>Далай-лама II Гьялва Гэндун Гьяцо</author>
-  </authors>
+  <author>Говард К. Катлер</author>
+  <author>Далай-лама XIV Тензин Гьяцо</author>
+  <author>Далай-лама II Гьялва Гэндун Гьяцо</author>
   <year>2005</year>
   <publisher>София</publisher>
   <isbn>9785912504846</isbn>

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <book>
   <title>Tibetan Portrait</title>
-  <authors>
-    <author>Phil Borges</author>
-  </authors>
+  <author>Phil Borges</author>
   <year>1999</year>
   <isbn>0847819574</isbn>
   <publisher>Rizzoli</publisher>
