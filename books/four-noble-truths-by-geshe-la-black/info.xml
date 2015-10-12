@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <book>
   <title>Четыре благородные истины</title>
-  <authors>
-    <author>Геше Джампа Тинлей</author>
-  </authors>
+  <author>Геше Джампа Тинлей</author>
   <year>2003</year>
   <publisher>SERES Publications</publisher>
   <amount>3</amount>

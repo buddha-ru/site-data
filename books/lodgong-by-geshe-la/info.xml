@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <book>
   <title>Лоджонг</title>
-  <authors>
-    <author>Геше Джампа Тинлей</author>
-  </authors>
+  <author>Геше Джампа Тинлей</author>
   <year>2008</year>
   <publisher>Екатеринбург</publisher>
   <amount>2</amount>
