@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<category>
+  <group>
+    <name>Атиша, 982 - 1054 гг</name>
+    <book>wheel-of-daggers-1999</book>
+    <book>wheel-of-daggers-2005</book>
+    <book>dharma-in-austia</book>
+  </group>
+  <group>
+    <name>Дхармаракшита, 9 век</name>
+    <book>wheel-of-daggers-1999</book>
+    <book>wheel-of-daggers-2005</book>
+  </group>
+  <group>
+    <name>Камалашила, 8 век</name>
+    <book>dharma-in-austia</book>
+  </group>
+  <group>
+    <name>Шантидева, 8 век</name>
+    <book>bodhicharya-avatara</book>
+  </group>
+  <group>
+    <name>Асанга, 4 век</name>
+    <book>abhisamaya-alamkara</book>
+  </group>
+  <group>
+    <name>Васубандху, 4 век</name>
+    <book>abhidharmakosha-section-3</book>
+    <book>abhidharmakosha-volume-1</book>
+    <book>abhidharmakosha-volume-2</book>
+    <book>karma-teachings</book>
+  </group>
+  <group>
+    <name>Арья Шура, 2 век</name>
+    <book>garlang-of-jatakas</book>
+  </group>
+</category>
