@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <section>
+    <name>Книги по авторам</name>
+    <category>authors</category>
+    <category>geshe-la</category>
+    <category>dalai-lama-14</category>
+    <category>tibetan-modern</category>
+    <category>tibetan-ancient</category>
+    <category>indian</category>
+  </section>
+  <section>
+    <name>Журналы</name>
+    <category>journals</category>
+  </section>
+</library>
