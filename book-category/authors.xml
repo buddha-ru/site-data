@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <category>
   <name>Все авторы</name>
+  <subcategory>dalai-lama-14</subcategory>
+  <subcategory>geshe-la</subcategory>
+  <subcategory>indian</subcategory>
+  <subcategory>tibetan-ancient</subcategory>
+  <subcategory>tibetan-modern</subcategory>
   <group>
     <name>Андросов В.П.</name>
     <book>buddha-shakyamuni-and-indian-buddhism</book>
