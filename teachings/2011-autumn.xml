@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<teachings>
+  <title>Осенние учения</title>
+  <year>2011</year>
+  <theme>
+    <title>Медитация на Ламрим</title>
+    <geshe-node>1291</geshe-node>
+    <buddha-node>238</buddha-node>
+    <annotation>Комментарий, основанный на опыте</annotation>
+    <record>
+      <record_date>2011-11-10</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2011/11/2011-11-10-N1-Meditaciya_na_Lamrim-Moskva-128.mp3</audio_url>
+      <audio_size>102</audio_size>
+    </record>
+    <record>
+      <record_date>2011-11-14</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2011/11/2011-11-14-N2-Meditaciya_na_Lamrim-Moskva-128.mp3</audio_url>
+      <audio_size>99</audio_size>
+      <video_url>http://lib.geshe.ru/files/Video/GesheDjampaTinley/2011/11/2011-11-14-N02-Meditaciya_na_Lamrim-Moskva.avi</video_url>
+      <video_size>796</video_size>
+    </record>
+    <record>
+      <record_date>2011-11-17</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2011/11/2011-11-17-N3-Meditaciya_na_Lamrim-Moskva-128.mp3</audio_url>
+      <audio_size>95</audio_size>
+      <video_url>http://lib.geshe.ru/files/Video/GesheDjampaTinley/2011/11/2011-11-17-N03-Meditaciya_na_Lamrim-Moskva.avi</video_url>
+      <video_size>797</video_size>
+    </record>
+    <record>
+      <record_date>2011-11-21</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2011/11/2011-11-21-N4-Meditaciya_na_Lamrim-Moskva-128.mp3</audio_url>
+      <audio_size>98</audio_size>
+      <video_url>http://lib.geshe.ru/files/Video/GesheDjampaTinley/2011/11/2011-11-21-N04-Meditaciya_na_Lamrim-Moskva.avi</video_url>
+      <video_size>797</video_size>
+    </record>
+    <record>
+      <record_date>2011-11-24</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2011/11/2011-11-24-N5-Meditaciya_na_Lamrim-Moskva-128.mp3</audio_url>
+      <audio_size>97</audio_size>
+      <video_url>http://lib.geshe.ru/files/Video/GesheDjampaTinley/2011/11/2011-11-24-N05-Meditaciya_na_Lamrim-Moskva.avi</video_url>
+      <video_size>797</video_size>
+    </record>
+    <record>
+      <record_date>2011-11-28</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2011/11/2011-11-28-N6-Meditaciya_na_Lamrim-Moskva-128.mp3</audio_url>
+      <audio_size>99</audio_size>
+      <video_url>http://lib.geshe.ru/files/Video/GesheDjampaTinley/2011/11/2011-11-28-N06-Meditaciya_na_Lamrim-Moskva.avi</video_url>
+      <video_size>797</video_size>
+    </record>
+    <record>
+      <record_date>2011-12-01</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2011/12/2011-12-01-N7-Meditaciya_na_Lamrim-Moskva-128.mp3</audio_url>
+      <audio_size>95</audio_size>
+    </record>
+  </theme>
+  <theme>
+    <title>Учение по Махамудре</title>
+    <geshe-node>1299</geshe-node>
+    <buddha-node>239</buddha-node>
+    <record>
+      <record_date>2011-11-12</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2011/11/2011-11-12-N1-Mahamudra-Moskva-128.mp3</audio_url>
+      <audio_size>83</audio_size>
+      <video_url>http://lib.geshe.ru/files/Video/GesheDjampaTinley/2011/11/2011-11-12-N1-Mahamudra-Moskva.avi</video_url>
+      <video_size>997</video_size>
+    </record>
+    <record>
+      <record_date>2011-11-19</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2011/11/2011-11-19-N2-Mahamudra-Moskva-128.mp3</audio_url>
+      <audio_size>107</audio_size>
+      <video_url>http://lib.geshe.ru/files/Video/GesheDjampaTinley/2011/11/2011-11-19-N2-Mahamudra-Moskva.avi</video_url>
+      <video_size>797</video_size>
+    </record>
+    <record>
+      <record_date>2011-11-26</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2011/11/2011-11-26-N3-Mahamudra-Moskva-128.mp3</audio_url>
+      <audio_size>84</audio_size>
+      <video_url>http://lib.geshe.ru/files/Video/GesheDjampaTinley/2011/11/2011-11-26-N3-Mahamudra-Moskva.avi</video_url>
+      <video_size>797</video_size>
+    </record>
+  </theme>
+</teachings>
