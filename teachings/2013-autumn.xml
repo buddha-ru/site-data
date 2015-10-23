@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<teachings>
+  <title>Осенние учения</title>
+  <year>2013</year>
+  <theme>
+    <title>Укрощение ума</title>
+    <geshe-node>1772</geshe-node>
+    <buddha-node>312</buddha-node>
+    <record>
+      <description>Карма</description>
+      <record_date>2013-11-07</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2013/11/2013-11-07-N01-Karma-Moscow-128.mp3</audio_url>
+      <audio_size>90</audio_size>
+      <video_url>http://lib.geshe.ru/files/Video/GesheDjampaTinley/2013/11/2013-11-07-N01-Karma-Moscow.avi</video_url>
+      <video_size>896</video_size>
+    </record>
+    <record>
+      <description>Карма</description>
+      <record_date>2013-11-11</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2013/11/2013-11-11-N02-Karma-Moscow-128.mp3</audio_url>
+      <audio_size>95</audio_size>
+      <video_url>http://lib.geshe.ru/files/Video/GesheDjampaTinley/2013/11/2013-11-11-N02-Karma-Moscow.avi</video_url>
+      <video_size>896</video_size>
+    </record>
+    <record>
+      <description>Пхова пяти сил</description>
+      <record_date>2013-11-14</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2013/11/2013-11-14-N03-Phova_pyti_sil-Moscow-128.mp3</audio_url>
+      <audio_size>89</audio_size>
+      <video_url>http://lib.geshe.ru/files/Video/GesheDjampaTinley/2013/11/2013-11-14-N03-Phova_pyti_sil-Moscow.avi</video_url>
+      <video_size>896</video_size>
+    </record>
+    <record>
+      <description>Четыре Благородные Истины</description>
+      <record_date>2013-11-28</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2013/11/2013-11-28-N04-Shetyre_blagorodnye_istiny-Moscow-128.mp3</audio_url>
+      <audio_size>65</audio_size>
+      <video_url>http://lib.geshe.ru/files/Video/GesheDjampaTinley/2013/11/2013-11-28-N04-Shetyre_blagorodnye_istiny-Moscow.avi</video_url>
+      <video_size>896</video_size>
+    </record>
+    <record>
+      <description>Четыре Благородные Истины</description>
+      <record_date>2013-12-02</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2013/12/2013-12-02-N05-Shetyre_blagorodnye_istiny-Moscow-128.mp3</audio_url>
+      <audio_size>91</audio_size>
+      <video_url>http://lib.geshe.ru/files/Video/GesheDjampaTinley/2013/12/2013-12-02-N05-Shetyre_blagorodnye_istiny-Moscow.avi</video_url>
+      <video_size>896</video_size>
+    </record>
+    <record>
+      <description>Четыре Благородные Истины</description>
+      <record_date>2013-12-05</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2013/12/2013-12-05-N06-Shetyre_blagorodnye_istiny-Moscow-128.mp3</audio_url>
+      <audio_size>90</audio_size>
+      <video_url>http://lib.geshe.ru/files/Video/GesheDjampaTinley/2013/12/2013-12-05-N06-Shetyre_blagorodnye_istiny-Moscow.avi </video_url>
+      <video_size>896</video_size>
+    </record>
+  </theme>
+  <theme>
+    <title>Практика необычной Гуру-йоги</title>
+    <geshe-node>1779</geshe-node>
+    <buddha-node>313</buddha-node>
+    <record>
+      <record_date>2013-11-09</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2013/11/2013-11-09-N01-Neobichnaya_Guru_Yoga-Moscow-128.mp3</audio_url>
+      <audio_size>80</audio_size>
+    </record>
+    <record>
+      <description>Метод и Мудрость</description>
+      <record_date>2013-11-30</record_date>
+      <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2013/11/2013-11-30-N02-Neobichnaya_Guru_Yoga-Moscow-128.mp3</audio_url>
+      <audio_size>80</audio_size>
+    </record>
+  </theme>
+</teachings>
