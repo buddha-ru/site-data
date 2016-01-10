@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<teachers>
+  <teacher>
+    <name>Его Святейшество Далай-лама XIV</name>
+    <page>hh-dalai-lama-14</page>
+  </teacher>
+  <teacher>
+    <name>Его Святейшество Богдо-геген Халха Джецун Дамба Ринпоче IX</name>
+    <page>hh-bogdo-gegen-9</page>
+  </teacher>
+  <teacher>
+    <name>Досточтимый Геше Джампа Тинлей</name>
+    <page>geshela</page>
+  </teacher>
+</teachers>
