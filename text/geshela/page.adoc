@@ -1,5 +1,6 @@
 ---
-name: "Досточтимый Геше Джампа Тинлей"
+title: "Досточтимый Геше Джампа Тинлей"
+back: '/teachers'
 ---
 
 image::geshela.jpg[role="left"]

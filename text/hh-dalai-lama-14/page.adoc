@@ -1,5 +1,6 @@
 ---
-name: "Его Святейшество Далай-лама XIV"
+title: "Его Святейшество Далай-лама XIV"
+back: '/teachers'
 ---
 
 image::dalai-lama.jpg[role="left"]
