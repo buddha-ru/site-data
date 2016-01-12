@@ -2,17 +2,17 @@
 <teachers>
   <teacher>
     <name>Его Святейшество Далай-лама XIV</name>
-    <page>/text/hh-dalai-lama-14</page>
+    <page>/text/hh-dalai-lama-14/</page>
     <image>hh-dalai-lama-14.jpg</image>
   </teacher>
   <teacher>
     <name>Его Святейшество Богдо-геген Халха Джецун Дамба Ринпоче IX</name>
-    <page>/text/hh-bogdo-gegen-9</page>
+    <page>/text/hh-bogdo-gegen-9/</page>
     <image>hh-bogdo-gegen-9.jpg</image>
   </teacher>
   <teacher>
     <name>Досточтимый Геше Джампа Тинлей</name>
-    <page>/text/geshela</page>
+    <page>/text/geshela/</page>
     <image>geshela.jpg</image>
   </teacher>
 </teachers>

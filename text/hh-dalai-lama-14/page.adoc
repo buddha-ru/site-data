@@ -1,6 +1,6 @@
 ---
 title: "Его Святейшество Далай-лама XIV"
-back: '/teachers'
+back: '/teachers/'
 ---
 
 image::dalai-lama.jpg[role="left"]

@@ -1,6 +1,6 @@
 ---
 title: "Его Святейшество Богдо-геген Халха Джецун Дамба Ринпоче IX"
-back: '/teachers'
+back: '/teachers/'
 ---
 
 image::rinpoche-sitting.jpg[role="left"]
