@@ -1,6 +1,6 @@
 ---
 title: "Досточтимый Геше Джампа Тинлей"
-back: '/teachers'
+back: '/teachers/'
 ---
 
 image::geshela.jpg[role="left"]
