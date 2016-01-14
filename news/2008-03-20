@@ -14,11 +14,8 @@ http://www.ntv.ru/novosti/128578/[Репортаж НTB]
 
 Подробнее об этом событии в видеорепортаже Канадской телекомпании CTV на английском языке.
 
-++++
-<div class='objectblock left'>
-<iframe width="420" height="315" src="https://www.youtube.com/embed/qxm2obArsBs" frameborder="0" allowfullscreen></iframe>
-</div>
-++++
+[.stretched]
+video::qxm2obArsBs[youtube]
 
 Демонстрации в поддержку Тибета проходят в Индии, Непале, Таиланде. В
 Нью-Йорке сотни людей пришли к зданию китайской миссии. Власти решили

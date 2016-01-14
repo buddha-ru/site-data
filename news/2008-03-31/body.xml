@@ -7,16 +7,15 @@
 <![CDATA[
 image::picket-photo.jpg[role='left']
 
+[.clearfix-after]
 Пикет состоялся *3 апреля, в четверг с 15:00 до 16:30* на
 набережной Тараса Шевченко у гостиницы "Украина". Смотрите
 http://savetibet.ru/2008/04/03/moscow_tibet.html[статью и фотографии]
 о событии на сайте savetibet.ru.
 
-++++
-<div class='objectblock clearfix'>
-<embed src="http://www.veoh.com/videodetails2.swf?permalinkId=v65877788RgXc8eg&amp;id=9953844&amp;player=videodetailsembedded&amp;videoAutoPlay=0" allowfullscreen="true" width="540" height="438" bgcolor="#FFFFFF" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
-</div>
-++++
+[.stretched]
+veoh::v65877788RgXc8eg[]
+
 ]]>
   </body>
 </news>
