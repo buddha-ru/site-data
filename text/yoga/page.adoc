@@ -38,11 +38,8 @@ back: '/classes/'
 в настоящее время составляет *200 руб.*; для малоимущих, студентов и пенсионеров
 - *100 руб.*
 
-++++
-<div class="embed-container">
-<iframe src="https://www.flickr.com/photos/139340494@N02/albums/72157661165270214/player" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-</div>
-++++
+[.stretched]
+flickr::139340494@N02/albums/72157661165270214[]
 
 === Другие материалы:
 

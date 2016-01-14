@@ -5,11 +5,9 @@
   <buddha_node>46</buddha_node>
   <body>
 <![CDATA[
-++++
-<div class='objectblock left'>
-<embed src="/news/2009-11-21/white-tara.swf" width="300" height="300"/>
-</div>
-++++
+
+[.left]
+swf::/news/2009-11-21/white-tara.swf[300, 300]
 
 *6 декабря* Досточтимым Геше Тинлеем будет даровано Благословение Белой
 Тары (Дженанг Белой Тары). Богиня Белая Тара считается божеством,
