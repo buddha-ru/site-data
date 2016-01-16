@@ -13,4 +13,4 @@ http://savetibet.ru/2008/04/03/moscow_tibet.html[статью и фотогра�
 о событии на сайте savetibet.ru.
 
 [.stretched]
-veoh::v65877788RgXc8eg[]
+content::v65877788RgXc8eg[veoh]
