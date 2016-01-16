@@ -32,7 +32,7 @@ image::interview-screenshot.jpg[]
 Начало интервью - 5 минут:
 
 [.stretched]
-veoh::v6989737AhEN4KB6[]
+content::v6989737AhEN4KB6[veoh]
 
 Источник: +
  http://www.savetibet.ru[www.savetibet.ru]
