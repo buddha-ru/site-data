@@ -1,15 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<news>
-  <title>Ретрит в Новосибирске</title>
-  <publish_date>2009-12-08</publish_date>
-  <buddha_node>168</buddha_node>
-  <body>
-<![CDATA[
+---
+title: "Ретрит в Новосибирске"
+publish_date: "2009-12-08"
+buddha_node: "168"
+---
+
 18-20 декабря в пансионате «Чкаловец» под Новосибирском досточтимый Геше
 Джампа Тинлей дарует учение по Сутре Сердца Праджняпарамиты. Подробная
 информация о ретрите в формате
 link:/news/2009-12-08-1/Novosibirsk2009.doc[Word].
-
-]]>
-  </body>
-</news>

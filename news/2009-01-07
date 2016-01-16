@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<news>
-  <title>Трансляция учений Его Святейшества Далай-ламы XIV в Сарнатхе</title>
-  <publish_date>2009-01-07</publish_date>
-  <buddha_node>128</buddha_node>
-  <body>
-<![CDATA[
+---
+title: "Трансляция учений Его Святейшества Далай-ламы XIV в Сарнатхе"
+publish_date: "2009-01-07"
+buddha_node: "128"
+---
+
 savetibet.ru рад сообщить вам об
 http://www.phayul.com/onlineradio/[*трансляции*] учений Его Святейшества
 Далай-ламы XIV в Сарнатхе (Индия) по
@@ -20,6 +19,3 @@ http://savetibet.ru/2008/12/07/dalai_lama_teachings.html[двум важнейш
 Перевод на русский язык: Юлия Жиронкина.
 Трансляция организована совместно с независимым тибетским порталом
 http://www.phayul.com[www.phayul.com]
-]]>
-  </body>
-</news>

@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<news>
-  <title>Вышел в свет тибетский календарь 2009-2010 гг.</title>
-  <publish_date>2009-02-23</publish_date>
-  <buddha_node>131</buddha_node>
-  <body>
-<![CDATA[
+---
+title: "Вышел в свет тибетский календарь 2009-2010 гг."
+publish_date: "2009-02-23"
+buddha_node: "131"
+---
+
 image::moon-calendar-2009-2010.jpg[role='left', height=300]
 
 В издательстве "Дже Цонкапа" выпущен тибетский календарь на 2009-2010 год. В
@@ -12,6 +11,3 @@ image::moon-calendar-2009-2010.jpg[role='left', height=300]
 день, а также индивидуальный астрологический прогноз на будущий год.
 
 Календарь имеется в наличии в нашем центре по link:/content/?q=node/3[адресу].
-]]>
-  </body>
-</news>

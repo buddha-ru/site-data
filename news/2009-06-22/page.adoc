@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<news>
-  <title>Просьба разрешить визит Его Святейшества Далай-ламы XIV</title>
-  <publish_date>2009-06-22</publish_date>
-  <buddha_node>155</buddha_node>
-  <body>
-<![CDATA[
+---
+title: "Просьба разрешить визит Его Святейшества Далай-ламы XIV"
+publish_date: "2009-06-22"
+buddha_node: "155"
+---
+
 С последнего визита
 http://savetibet.ru/dalaj-lama/2005/dalaj-lama-bio.php[*Его Святейшества
 Далай-ламы XIV*] в Россию прошло пять лет. Тогда Его Святейшество
@@ -122,7 +121,3 @@ XIV-является для меня истинным оплотом добра 
 
 С уважением, ИМЯ ФАМИЛИЯ
 ____
-
-]]>
-  </body>
-</news>

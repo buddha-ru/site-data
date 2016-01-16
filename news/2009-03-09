@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<news>
-  <title>Прямая видеотрансляция из Дхарамсалы</title>
-  <publish_date>2009-03-09</publish_date>
-  <buddha_node>133</buddha_node>
-  <body>
-<![CDATA[
+---
+title: "Прямая видеотрансляция из Дхарамсалы"
+publish_date: "2009-03-09"
+buddha_node: "133"
+---
+
 *http://www.savetibet.ru[www.savetibet.ru] приглашает вас стать
 участниками следующих событий:*
 
@@ -25,6 +24,3 @@ http://www.savetibet.ru[www.savetibet.ru] 10 марта
 
 *Видеотрансляцию можно посмотреть на сайте:
 http://www.tibetonline.tv[www.tibetonline.tv]*
-]]>
-  </body>
-</news>

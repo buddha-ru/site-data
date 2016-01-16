@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<news>
-  <title>Традиционные весенние учения Его Святейшества Далай-ламы</title>
-  <publish_date>2008-02-10</publish_date>
-  <buddha_node>60</buddha_node>
-  <body>
-<![CDATA[
+---
+title: "Традиционные весенние учения Его Святейшества Далай-ламы"
+publish_date: "2008-02-10"
+buddha_node: "60"
+---
+
 21 февраля в Дхарамсале (Индия) начнутся традиционные весенние учения
 Его Святейшества Далай-ламы.
 
@@ -28,6 +27,3 @@ http://www.phayul.com/onlineradio/[www.phayul.com]
 Во времени трансляций возможны изменения .
 
 http://www.savetibet.ru[www.savetibet.ru] - Сохраним Тибет!
-]]>
-  </body>
-</news>
