@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<news>
-  <title>В Москве прошёл пикет в поддержку тибетского народа</title>
-  <publish_date>2008-03-31</publish_date>
-  <buddha_node>78</buddha_node>
-  <body>
-<![CDATA[
+---
+title: "В Москве прошёл пикет в поддержку тибетского народа"
+publish_date: "2008-03-31"
+buddha_node: "78"
+---
+
 image::picket-photo.jpg[role='left']
 
 [.clearfix-after]
@@ -15,7 +14,3 @@ http://savetibet.ru/2008/04/03/moscow_tibet.html[статью и фотогра�
 
 [.stretched]
 veoh::v65877788RgXc8eg[]
-
-]]>
-  </body>
-</news>

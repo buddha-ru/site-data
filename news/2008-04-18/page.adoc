@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<news>
-  <title>Интервью Его Святейшества Далай-Ламы телеканалу NBC</title>
-  <publish_date>2008-04-18</publish_date>
-  <buddha_node>87</buddha_node>
-  <body>
-<![CDATA[
+---
+title: "Интервью Его Святейшества Далай-Ламы телеканалу NBC"
+publish_date: "2008-04-18"
+buddha_node: "87"
+---
+
 Интервью Его Святейшества Далай-Ламы телеканалу NBC 11 апреля 2008
 годa. Ведущая Энн Корри. Перевод Юлии Жиронкиной.
 
@@ -37,6 +36,3 @@ veoh::v6989737AhEN4KB6[]
 
 Источник: +
  http://www.savetibet.ru[www.savetibet.ru]
-]]>
-  </body>
-</news>

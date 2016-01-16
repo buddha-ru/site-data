@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<news>
-  <title>Пикет в поддержку Тибета в Москве 3 апреля 2008 года</title>
-  <publish_date>2008-04-05</publish_date>
-  <buddha_node>83</buddha_node>
-  <body>
-<![CDATA[
+---
+title: "Пикет в поддержку Тибета в Москве 3 апреля 2008 года"
+publish_date: "2008-04-05"
+buddha_node: "83"
+---
+
 Репортаж Euronews:
 
 [.stretched]
@@ -21,6 +20,3 @@ veoh::v65915244fhjNt3S[]
 video::sZa9YKUMGsA[youtube]
 
 http://www.savetibet.ru[www.savetibet.ru]
-]]>
-  </body>
-</news>

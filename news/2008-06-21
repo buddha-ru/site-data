@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<news>
-  <title>Показ фильма "Рассвет/Закат" в ММКФ</title>
-  <publish_date>2008-06-21</publish_date>
-  <buddha_node>103</buddha_node>
-  <body>
-<![CDATA[
+---
+title: 'Показ фильма "Рассвет/Закат" в ММКФ'
+publish_date: "2008-06-21"
+buddha_node: "103"
+---
+
 *21 и 22 июня* в рамках 30-го Московского Международного кинофестиваля,
 в кинотеатре "Октябрь", состоится показ фильма Виталия Манского
 "Рассвет/Закат" о Его Святейшестве Далай-Ламе ХIV.
@@ -42,6 +41,3 @@
 
 http://karofilm.ru/cgi-bin/show.pl?option=cinema_description&id=4[Кинотеатр
 "Октябрь"]
-]]>
-  </body>
-</news>

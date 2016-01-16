@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<news>
-  <title>Открылcя  интернет-сайт  "Тибетский Альбом"</title>
-  <publish_date>2008-06-13</publish_date>
-  <buddha_node>101</buddha_node>
-  <body>
-<![CDATA[
+---
+title: 'Открылcя  интернет-сайт  "Тибетский Альбом"'
+publish_date: "2008-06-13"
+buddha_node: "101"
+---
+
 1 июня 2008 года состоялась торжественная церемония запуска нового
 Интернет-сайта http://tibet.prm.ox.ac.uk/[«Тибетский альбом»], который
 является проектом популярного музея Pitt Rivers Museum, действующего при
@@ -26,6 +25,3 @@
 http://tibet.prm.ox.ac.uk/[Тибетский альбом] +
  По материалам
 http://savetibet.ru/2008/06/01/dalai_lama_oxford.html[SaveTibet.ru]
-]]>
-  </body>
-</news>

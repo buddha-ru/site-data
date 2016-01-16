@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<news>
-  <title>Новый буддийский календарь</title>
-  <publish_date>2015-01-03</publish_date>
-  <buddha_node>351</buddha_node>
-  <body>
-<![CDATA[
+---
+title: "Новый буддийский календарь"
+publish_date: "2015-01-03"
+buddha_node: "351"
+---
+
 image::moon-calendar-2015.jpg[role="left", height=300]
 
 Издательством "Дже Цонкапа" выпущен новый буддийский календарь на 2015-2016
@@ -14,6 +13,3 @@ image::moon-calendar-2015.jpg[role="left", height=300]
 
 Приобрести календарь можно в московском буддийском Центре Ламы Цонкапы
 по адресу: ул. Мытная, д.23, корп.1.
-]]>
-  </body>
-</news>

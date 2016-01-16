@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<news>
-  <title>Акция буддийский монахов на конференции в Лхасе</title>
-  <publish_date>2008-03-27</publish_date>
-  <buddha_node>77</buddha_node>
-  <body>
-<![CDATA[
+---
+title: "Акция буддийский монахов на конференции в Лхасе"
+publish_date: "2008-03-27"
+buddha_node: "77"
+---
+
 Группа молодых буддийских монахов сорвала пресс-конференцию,
 организованную 27 марта в Лхасе для иностранных журналистов, передает
 агентство Reuters.
@@ -39,6 +38,3 @@ video::5AS-4i7P43U[youtube]
 
 Источники: http://www.reuters.com[www.reuters.com] ,
 http://www.savetibet.tu[www.savetibet.tu]
-]]>
-  </body>
-</news>
