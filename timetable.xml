@@ -35,13 +35,8 @@
   <classes>
     <title>Тибетский язык</title>
     <timetable>
-      <day>Friday</day> <begin>19:00</begin> <end>21:00</end>
-    </timetable>
-    <timetable>
       <day>Sunday</day> <begin>18:00</begin> <end>20:00</end>
     </timetable>
-    <cancel>2015-11-06</cancel>
-    <cancel>2015-12-20</cancel>
   </classes>
 
   <classes>
@@ -55,47 +50,39 @@
     <timetable>
       <day>Saturday</day> <begin>15:00</begin> <end>17:00</end>
     </timetable>
-    <cancel>2015-10-22</cancel>
-    <cancel>2015-11-05</cancel>
-    <cancel>2015-11-12</cancel>
   </classes>
 
   <classes>
-    <title>Учения Геше-ла I</title>
+    <title>Вводный курс</title>
+    <timetable>
+      <day>Friday</day> <begin>19:00</begin> <end>21:00</end>
+    </timetable>
+    <begin>2016-09-02</begin>
+    <end>2016-10-28</end>
+  </classes>
+
+  <classes>
+    <title>Четыре философские школы</title>
+    <timetable>
+      <day>Sunday</day> <begin>11:00</begin> <end>13:00</end>
+    </timetable>
+    <begin>2016-09-04</begin>
+    <end>2016-10-30</end>
+  </classes>
+
+  <classes>
+    <title>Учения Гешела</title>
     <timetable>
       <day>Monday</day> <begin>19:00</begin> <end>21:00</end>
     </timetable>
     <timetable>
-      <day>Thursday</day> <begin>19:00</begin> <end>21:00</end>
+      <day>Wedneday</day> <begin>19:00</begin> <end>21:00</end>
     </timetable>
     <timetable>
       <day>Saturday</day> <begin>12:00</begin> <end>14:00</end>
     </timetable>
-    <begin>2015-11-05</begin> <end>2015-11-12</end>
-  </classes>
-
-  <classes>
-    <title>Учения Геше-ла II</title>
-    <timetable>
-      <day>Saturday</day> <begin>12:00</begin> <end>14:00</end>
-    </timetable>
-    <begin>2015-11-21</begin> <end>2015-12-05</end>
-  </classes>
-
-  <event>
-    <title>Как-бы Цог</title>
-    <date>2015-11-28</date> <begin>12:00</begin> <end>14:00</end>
-  </event>
-
-  <classes>
-    <title>Выдуманное занятие</title>
-    <timetable>
-      <day>Monday</day> <begin>19:00</begin> <end>21:00</end>
-    </timetable>
-    <timetable>
-      <day>Wednesday</day> <begin>19:00</begin> <end>21:00</end>
-    </timetable>
-    <begin>2016-03-08</begin> <end>2016-01-04</end>
+    <begin>2016-11-10</begin>
+    <end>2016-12-10</end>
   </classes>
 
 </timetable>
