@@ -1,39 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <timetable>
 
-  <event>
+  <event_plan>
     <title>Цог</title>
-    <date>2015-09-07</date> <begin>19:00</begin> <end>21:00</end>
-  </event>
-  <event>
-    <title>Цог</title>
-    <date>2015-09-23</date> <begin>19:00</begin> <end>21:00</end>
-  </event>
-  <event>
-    <title>Цог</title>
-    <date>2015-10-07</date> <begin>19:00</begin> <end>21:00</end>
-  </event>
-  <event>
-    <title>Цог</title>
-    <date>2015-10-22</date> <begin>19:00</begin> <end>21:00</end>
-  </event>
-  <event>
-    <title>Цог</title>
-    <date>2015-11-06</date> <begin>19:00</begin> <end>21:00</end>
-  </event>
-  <event>
-    <title>Цог</title>
-    <date>2015-11-21</date> <begin>19:00</begin> <end>21:00</end>
-    <cancel/>
-  </event>
-  <event>
-    <title>Цог</title>
-    <date>2015-12-5</date> <begin>19:00</begin> <end>21:00</end>
-  </event>
-  <event>
-    <title>Цог</title>
-    <date>2015-12-20</date> <begin>19:00</begin> <end>21:00</end>
-  </event>
+    <begin>19:00</begin> <end>21:00</end>
+    <date>2015-09-07</date>
+    <date>2015-09-23</date>
+    <date>2015-10-07</date>
+    <date>2015-10-22</date>
+    <date>2015-11-06</date>
+    <date>2015-11-21</date>
+    <date>2015-12-5</date>
+    <date>2015-12-20</date>
+    <cancel>2015-11-21</cancel>
+  </event_plan>
 
   <classes>
     <title>Тибетский язык</title>
