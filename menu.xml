@@ -1,5 +1,6 @@
 <menu>
   <item>
+    <name>about</name>
     <title>О ЦЕНТРЕ</title>
     <link>/about/"</link>
     <subitem>
@@ -12,18 +13,22 @@
     </subitem>
   </item>
   <item>
+    <name>teachings</name>
     <title>УЧЕНИЯ</title>
     <link>/archive/</link>
   </item>
   <item>
+    <name>news</name>
     <title>НОВОСТИ</title>
     <link>/news?top=true</link>
   </item>
   <item>
+    <name>timetable</name>
     <title>РАСПИСАНИЕ</title>
     <link>/timetable?offset=0</link>
   </item>
   <item>
+    <name>library</name>
     <title>БИБЛИОТЕКА</title>
     <link>/library/</link>
   </item>
