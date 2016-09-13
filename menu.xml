@@ -24,8 +24,8 @@
   </item>
   <item>
     <name>timetable</name>
-    <title>РАСПИСАНИЕ</title>
-    <link>/timetable</link>
+    <title>ЗАНЯТИЯ</title>
+    <link>/timetable?show=week</link>
   </item>
   <item>
     <name>library</name>
