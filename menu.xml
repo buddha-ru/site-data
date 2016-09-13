@@ -25,7 +25,7 @@
   <item>
     <name>timetable</name>
     <title>РАСПИСАНИЕ</title>
-    <link>/timetable?offset=0</link>
+    <link>/timetable</link>
   </item>
   <item>
     <name>library</name>
