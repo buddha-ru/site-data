@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <archive>
   <year>
+    <year>2016</year>
+    <teachings>2016-spring</teachings>
+  </year>
+  <year>
     <year>2015</year>
+    <teachings>2015-autumn</teachings>
+    <teachings>2015-ershovo</teachings>
     <teachings>2015-spring</teachings>
   </year>
   <year>
