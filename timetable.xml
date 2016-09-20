@@ -34,6 +34,16 @@
 
   <classes>
     <title>Тибетский язык</title>
+    <info>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+culpa qui officia deserunt mollit anim id est laborum.
+
+    </info>
     <timetable>
       <day>Sunday</day> <begin>18:00</begin> <end>20:00</end>
     </timetable>
@@ -41,6 +51,23 @@
 
   <classes>
     <title>Йога</title>
+    <info>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+culpa qui officia deserunt mollit anim id est laborum.
+
+    </info>
     <timetable>
       <day>Tuesday</day> <begin>19:00</begin> <end>21:00</end>
     </timetable>
@@ -54,6 +81,13 @@
 
   <classes>
     <title>Вводный курс</title>
+    <info>
+
+Занятия предназначены для тех кто хочет познакомиться с буддизмом махаяны.
+Слушатели познакомятся с такими базовыми темами как четыре благородные истины,
+закон кармы, Прибежище, бодхичитта, пустота и бессамостность.
+
+    </info>
     <timetable>
       <day>Friday</day> <begin>19:00</begin> <end>21:00</end>
     </timetable>
@@ -64,6 +98,14 @@
 
   <classes>
     <title>Четыре философские школы</title>
+    <info>
+Занятия посвящены изучению воззрений четырех основных философских школ
+махаянского буддизма: вайбхашики, саутрантики, читтаматры и мадхъямаки.
+В частности какой смысл эти школы вкладывают в понятия абсолютной
+и относительной истины, бессамостности, пустоты, истиного существования,
+самобытия.
+
+    </info>
     <timetable>
       <day>Sunday</day> <begin>11:00</begin> <end>13:00</end>
     </timetable>
@@ -72,6 +114,15 @@
   </classes>
 
   <classes>
+    <info>
+
+Традиционные осенние учения геше Джампа Тинлея проводимые в Москве. По будним
+дням занятия проводятся в "Открытом мире" и доступны всем желающим. Субботние
+занятия проводятся в дхарма-центре и предполагают обладание слушателями по
+крайней мере благословения Белой Тары или любого посвящения
+Маха-ануттара-йога-тантры. Темы учений будут объявлены позднее.
+
+    </info>
     <title>Учения Гешела</title>
     <timetable>
       <day>Monday</day> <begin>19:00</begin> <end>21:00</end>
