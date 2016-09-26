@@ -4,8 +4,8 @@
   <year>2013</year>
   <theme>
     <title>Укрощение ума</title>
-    <geshe-node>1772</geshe-node>
-    <buddha-node>312</buddha-node>
+    <geshe_node>1772</geshe_node>
+    <buddha_node>312</buddha_node>
     <record>
       <description>Карма</description>
       <record_date>2013-11-07</record_date>
@@ -57,8 +57,8 @@
   </theme>
   <theme>
     <title>Практика необычной Гуру-йоги</title>
-    <geshe-node>1779</geshe-node>
-    <buddha-node>313</buddha-node>
+    <geshe_node>1779</geshe_node>
+    <buddha_node>313</buddha_node>
     <record>
       <record_date>2013-11-09</record_date>
       <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2013/11/2013-11-09-N01-Neobichnaya_Guru_Yoga-Moscow-128.mp3</audio_url>

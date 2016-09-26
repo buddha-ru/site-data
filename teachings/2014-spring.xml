@@ -4,8 +4,8 @@
   <year>2014</year>
   <theme>
     <title>Четыре благородные истины</title>
-    <geshe-node>1782</geshe-node>
-    <buddha-node>326</buddha-node>
+    <geshe_node>1782</geshe_node>
+    <buddha_node>326</buddha_node>
     <record>
       <record_date>2014-03-24</record_date>
       <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2014/03/2014-03-24-N01-Shetyre_blagorodnie_istini_Moscow-128.mp3</audio_url>
@@ -72,8 +72,8 @@
   </theme>
   <theme>
     <title>Практика необычной Гуру-йоги</title>
-    <geshe-node>1791</geshe-node>
-    <buddha-node>328</buddha-node>
+    <geshe_node>1791</geshe_node>
+    <buddha_node>328</buddha_node>
     <record>
       <description>Развитие мотивации</description>
       <record_date>2014-03-22</record_date>

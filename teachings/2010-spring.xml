@@ -4,8 +4,8 @@
   <year>2010</year>
   <theme>
     <title>Четыре Благородные Истины</title>
-    <geshe-node>300</geshe-node>
-    <buddha-node>182</buddha-node>
+    <geshe_node>300</geshe_node>
+    <buddha_node>182</buddha_node>
     <record>
       <record_date>2010-03-22</record_date>
       <audio_url>http://lib.geshe.ru/files/audio/GesheDjampaTinley/128/2010/03/2010-03-22-N1-Chetiri_Blagorodnie_Istini-Moskva-128.mp3</audio_url>
@@ -44,8 +44,8 @@
   </theme>
   <theme>
     <title>Медитация</title>
-    <geshe-node>295</geshe-node>
-    <buddha-node>183</buddha-node>
+    <geshe_node>295</geshe_node>
+    <buddha_node>183</buddha_node>
     <record>
       <record_date>2010-03-24</record_date>
       <audio_url>http://lib.geshe.ru/files/audio/GesheDjampaTinley/128/2010/03/2010-03-24-N1-Trenirovka_uma-Moskva-128.mp3</audio_url>
@@ -77,8 +77,8 @@
   </theme>
   <theme>
     <title>Комментарий к Гуру-йоге Будды Ваджрадары</title>
-    <geshe-node>290</geshe-node>
-    <buddha-node>184</buddha-node>
+    <geshe_node>290</geshe_node>
+    <buddha_node>184</buddha_node>
     <record>
       <record_date>2010-03-27</record_date>
       <audio_url>http://lib.geshe.ru/files/audio/GesheDjampaTinley/128/2010/03/2010-03-27-N1-Guru_Yoga_Budda_Vadjradara-Moskva-128.mp3</audio_url>
