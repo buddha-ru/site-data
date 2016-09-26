@@ -4,8 +4,8 @@
   <year>2009</year>
   <theme>
     <title>Шаматха медитация</title>
-    <geshe-node>445</geshe-node>
-    <buddha-node>137</buddha-node>
+    <geshe_node>445</geshe_node>
+    <buddha_node>137</buddha_node>
     <record>
       <record_date>2009-03-23</record_date>
       <audio_url>http://lib.geshe.ru/files/audio/GesheDjampaTinley/32/2009/03/2009-03-23-N1-Shamatha-Moskow-24.mp3</audio_url>
@@ -49,8 +49,8 @@
   </theme>
   <theme>
     <title>Комментарий к необычной Гуру-йоге</title>
-    <geshe-node>454</geshe-node>
-    <buddha-node>166</buddha-node>
+    <geshe_node>454</geshe_node>
+    <buddha_node>166</buddha_node>
     <record>
       <description>План на будущее</description>
       <record_date>2009-03-09</record_date>

@@ -4,8 +4,8 @@
   <year>2012</year>
   <theme>
     <title>Четыре философские школы буддизма. Часть 2</title>
-    <geshe-node>1627</geshe-node>
-    <buddha-node>271</buddha-node>
+    <geshe_node>1627</geshe_node>
+    <buddha_node>271</buddha_node>
     <record>
       <record_date>2012-10-29</record_date>
     </record>
@@ -33,8 +33,8 @@
   </theme>
   <theme>
     <title>Комментарий к практике необычной Гуру-йоги</title>
-    <geshe-node>1568</geshe-node>
-    <buddha-node>273</buddha-node>
+    <geshe_node>1568</geshe_node>
+    <buddha_node>273</buddha_node>
     <record>
       <record_date>2012-11-10</record_date>
       <audio_url>http://lib.Geshe.ru/files/audio/GesheDjampaTinley/128/2012/11/2012-11-10-N1-Neobichnaya_Guru_Yoga-Moskva-128.mp3</audio_url>

@@ -4,8 +4,8 @@
   <year>2015</year>
   <theme>
     <title>Наставления, как проводить аналитические медитации по темам Ламрима</title>
-    <geshe-node>2019</geshe-node>
-    <buddha-node>356</buddha-node>
+    <geshe_node>2019</geshe_node>
+    <buddha_node>356</buddha_node>
     <record>
       <description>Что такое Дхарма</description>
       <record_date>2015-03-16</record_date>
@@ -69,8 +69,8 @@
   </theme>
   <theme>
     <title>Необычная Гуру-Йога</title>
-    <geshe-node>2030</geshe-node>
-    <buddha-node>357</buddha-node>
+    <geshe_node>2030</geshe_node>
+    <buddha_node>357</buddha_node>
     <record>
       <description>Совершение простираний</description>
       <record_date>2015-03-21</record_date>

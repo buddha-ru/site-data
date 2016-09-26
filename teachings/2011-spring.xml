@@ -4,8 +4,8 @@
   <year>2011</year>
   <theme>
     <title>Комментарий к Сутре Сердца (продолжение)</title>
-    <geshe-node>102</geshe-node>
-    <buddha-node>217</buddha-node>
+    <geshe_node>102</geshe_node>
+    <buddha_node>217</buddha_node>
     <record>
       <description>Четыре печати</description>
       <record_date>2011-03-28</record_date>
@@ -71,8 +71,8 @@
   </theme>
   <theme>
     <title>Шаматха (продолжение)</title>
-    <geshe-node>98</geshe-node>
-    <buddha-node>218</buddha-node>
+    <geshe_node>98</geshe_node>
+    <buddha_node>218</buddha_node>
     <annotation>Комментарий к практике Шаматха на основе Cреднего Ламрима Дже Цонкапы</annotation>
     <record>
       <record_date>2011-04-02</record_date>

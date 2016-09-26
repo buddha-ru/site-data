@@ -4,8 +4,8 @@
   <year>2008</year>
   <theme>
     <title>Развитие ума </title>
-    <geshe-node>471</geshe-node>
-    <buddha-node>113</buddha-node>
+    <geshe_node>471</geshe_node>
+    <buddha_node>113</buddha_node>
     <annotation>Лекции об уме и способах его совершенствования</annotation>
     <record>
       <record_date>2008-11-03</record_date>
@@ -60,8 +60,8 @@
   </theme>
   <theme>
     <title>Комментарий к Гуру-пудже</title>
-    <geshe-node>466</geshe-node>
-    <buddha-node>115</buddha-node>
+    <geshe_node>466</geshe_node>
+    <buddha_node>115</buddha_node>
     <record>
       <record_date>2008-11-08</record_date>
       <audio_url>http://lib.geshe.ru/files/audio/GesheDjampaTinley/128/2008/11/2008-11-08-N1-Guru_Puja_commentary-Moscow.mp3</audio_url>

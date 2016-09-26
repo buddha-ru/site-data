@@ -5,8 +5,8 @@
 
   <theme>
     <title>Наставления о том, как практиковать Шесть Парамит</title>
-    <geshe-node>2217</geshe-node>
-    <buddha-node>373</buddha-node>
+    <geshe_node>2217</geshe_node>
+    <buddha_node>373</buddha_node>
     <record>
       <description>Парамита щедрости</description>
       <record_date>05.11.2015</record_date>
@@ -60,8 +60,8 @@
 
   <theme>
     <title>Практика необычной Гуру-йоги</title>
-    <geshe-node>2225</geshe-node>
-    <buddha-node>374</buddha-node>
+    <geshe_node>2225</geshe_node>
+    <buddha_node>374</buddha_node>
     <record>
       <description>Подношение Цог</description>
       <record_date>07.11.2015</record_date>

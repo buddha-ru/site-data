@@ -5,8 +5,8 @@
 
   <theme>
     <title>Медитация</title>
-    <geshe-node>2234</geshe-node>
-    <buddha-node>386</buddha-node>
+    <geshe_node>2234</geshe_node>
+    <buddha_node>386</buddha_node>
     <record>
       <description>Стратегия, пять ошибок</description>
       <record_date>21.03.2016</record_date>
@@ -74,8 +74,8 @@
 
   <theme>
     <title>Необычная Гуру-Йога</title>
-    <geshe-node>2231</geshe-node>
-    <buddha-node>385</buddha-node>
+    <geshe_node>2231</geshe_node>
+    <buddha_node>385</buddha_node>
     <record>
       <description>Великое сострадание</description>
       <record_date>19.03.2016</record_date>
