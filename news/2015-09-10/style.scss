@@ -1,0 +1,44 @@
+.news-single .news .body {
+
+table#coord-table tr.end td {
+  padding-bottom: 10px;
+}
+
+table#coord-table tr.begin td {
+  border-top: 1px solid;
+  padding-top: 10px;
+}
+
+table#coord-table th.head {
+  border-bottom: 2px solid;
+}
+
+/* cells */
+
+table#coord-table td.name {
+  text-align: left;
+}
+
+table#coord-table td.email {
+  text-align: left;
+}
+
+table#coord-table td.phone {
+  text-align: center;
+}
+
+/* headers */
+
+table#coord-table th.name {
+  text-align: left;
+}
+
+table#coord-table th.email {
+  text-align: left;
+}
+
+table#coord-table th.phone {
+  text-align: center;
+}
+
+}
