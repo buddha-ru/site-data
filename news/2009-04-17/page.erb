@@ -4,4 +4,8 @@ publish_date: "2009-04-17"
 buddha_node: "142"
 ---
 
-<a href="?q=node/148&amp;phpMyAdmin=p673sulsueh53888h0vfn6b377">Начать просмотр</a>
+<%= erb :'partials/slideshow',
+  locals: { url: @url,
+            directory: 'photos',
+            root: true
+} %>
