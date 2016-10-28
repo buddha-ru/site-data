@@ -236,6 +236,13 @@ ymaps.ready(function () {
             zoom: 12,
         });
     map.behaviors.disable('scrollZoom');
+
+    map.geoObjects
+    .add(new ymaps.Placemark([55.764942, 36.870357], {
+        balloonContent: 'Место проведения ретрита'
+    }, {
+        preset: 'islands#redDotIcon'
+    }))
 });
 </script>
 
