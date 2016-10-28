@@ -16,6 +16,13 @@ ymaps.ready(function () {
             zoom: 15,
         });
     map.behaviors.disable('scrollZoom');
+
+    map.geoObjects
+    .add(new ymaps.Placemark([55.717285, 37.620162], {
+        iconCaption: 'Дхарма-центр'
+    }, {
+        preset: 'islands#redDotIconWithCaption'
+    }))
 });
 </script>
 
