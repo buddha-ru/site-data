@@ -243,6 +243,8 @@ ymaps.ready(function () {
             zoom: 11,
         });
     map.behaviors.disable('scrollZoom');
+    if (Modernizr.touchevents)
+      map.behaviors.disable('drag');
 
     map.geoObjects
     .add(new ymaps.Placemark([55.764942, 36.870357], {

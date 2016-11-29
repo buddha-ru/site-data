@@ -16,6 +16,8 @@ ymaps.ready(function () {
             zoom: 15,
         });
     map.behaviors.disable('scrollZoom');
+    if (Modernizr.touchevents)
+      map.behaviors.disable('drag');
 
     map.geoObjects
     .add(new ymaps.Placemark([55.778685, 37.672779], {
