@@ -16,8 +16,16 @@ ymaps.ready(function () {
             zoom: 15,
         });
     map.behaviors.disable('scrollZoom');
-    if (Modernizr.touchevents)
+    if (Modernizr.touchevents) {
       map.behaviors.disable('drag');
+      fullscreen = map.controls.get('fullscreenControl')
+      fullscreen.events.add('fullscreenenter', function() {
+        this.behaviors.enable('drag');
+      }, map);
+      fullscreen.events.add('fullscreenexit', function() {
+        this.behaviors.disable('drag');
+      }, map);
+    }
 
     map.geoObjects
     .add(new ymaps.Placemark([55.778685, 37.672779], {
