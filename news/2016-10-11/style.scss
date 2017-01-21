@@ -1,48 +1,7 @@
 #url-2016-10-11 {
 
-.tables {
-  font-size: 0;
-  margin: 20px 0;
-  table {
-    font-size: 14px;
-    display: inline-block;
-    vertical-align: top;
-    width: 50%;
-    colgroup col { width: 100px; }
-  }
+table {
+  colgroup col { width: 100px; }
 }
-
-
-@media (max-width: 991px) {
-
-.tables {
-  table {
-    width: 100%;
-  }
-}
-
-}
-
-
-@media (max-width: 767px) {
-
-.tables {
-  table {
-    width: 50%;
-  }
-}
-
-}
-
-@media (max-width: 480px) {
-
-.tables {
-  table {
-    width: 100%;
-  }
-}
-
-}
-
 
 }
