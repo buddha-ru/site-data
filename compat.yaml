@@ -1,4 +1,62 @@
 ---
+# single pages
+
+# index
+/content/: /
+# news on publishing
+/content/?q=taxonomy/term/1: /news?top=true
+# news on Tibet
+/content/?q=taxonomy/term/3: /news?top=true
+# news on video
+/content/?q=taxonomy/term/4: /news?top=true
+# news on photos
+/content/?q=taxonomy/term/6: /news?top=true
+# photos from piket
+/content/?q=node/149: /news/2008-04-06/
+# photos on tibet issue of 2008
+/content/?q=node/150: /news/2008-03-25/
+# photos from piknik of 2009
+/content/?q=node/148: /news/2009-04-17/
+# teachers
+/content/?q=node/6: /teachers/
+# HH the Dalai Lama 14
+/content/?q=node/7: /teachers/hh-dalai-lama-14/
+# HH the Bogdo Gegen 9
+/content/?q=node/8: /teachers/hh-bogdo-gegen-9/
+# Geshela
+/content/?q=node/9: /teachers/geshela/
+# library
+/content/?q=node/13: /library/
+# teachings
+/content/?q=node/39: /archive/
+/content/?q=node/224: /teachings/2011-spring/
+/content/?q=node/225: /teachings/2011-spring/
+/content/?q=node/225: /teachings/2009-autumn/
+/content/?q=node/94: /teachings/2008-spring/
+/content/?q=node/95: /teachings/2008-spring/
+# all classes page
+/content/?q=node/12: /timetable?show=schedule
+# timetable page
+/content/?q=node/171&phpMyAdmin=p673sulsueh53888h0vfn6b377: /timetable?show=week
+# tsog page
+/content/?q=node/158: /timetable?show=schedule
+# tibetan lang page
+/content/?q=node/114: /timetable?show=schedule
+# yoga main page
+/content/?q=node/154: /yoga/
+# yoga FAQ
+/content/?q=node/157: /yoga/
+# yoga photos
+/content/?q=node/152: /yoga/
+# geshela teachings
+/content/?q=node/130: /timetable?show=schedule
+# contacts
+/content/?q=contact: /contacts/
+# address
+/content/?q=node/3: /contacts/
+# about
+/content/?q=node/2: /about/
+
 # news
 /content/?q=node/29: /news/2007-09-09/
 /content/?q=node/30: /news/2007-09-12/
