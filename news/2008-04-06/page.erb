@@ -4,8 +4,4 @@ publish_date: "2008-04-06"
 buddha_node: "84"
 ---
 
-<%= erb :'partials/slideshow',
-  locals: { url: @url,
-            directory: 'photos',
-            root: true
-} %>
+<%= slideshow('photos') %>

@@ -1,11 +1,7 @@
 <div class="about site-2-columns">
 
 <div class="side">
-  <%= erb :'partials/slideshow',
-    locals: { url: '/about/',
-              directory: 'photos',
-              root: false
-  } %>
+  <%= slideshow('photos') %>
 </div> <!-- side -->
 
 <div class="side">

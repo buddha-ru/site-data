@@ -32,11 +32,7 @@
 </div> <!-- side -->
 
 <div class="side">
-  <%= erb :'partials/slideshow',
-    locals: { url: '/yoga/',
-              directory: 'photos',
-              root: false
-  } %>
+  <%= slideshow('photos') %>
 </div> <!-- side -->
 
 <span class="space"></span>
