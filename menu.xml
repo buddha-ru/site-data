@@ -11,6 +11,10 @@
       <title>Контакты</title>
       <link>/contacts/</link>
     </subitem>
+    <subitem>
+      <title>Помощь центру</title>
+      <link>/donations/</link>
+    </subitem>
   </item>
   <item>
     <name>teachings</name>
