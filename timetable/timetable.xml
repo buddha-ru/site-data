@@ -16,9 +16,9 @@
     <begin>2017-03-20</begin>
     <end>2017-04-15</end>
     <message>
-      Занятия по хатха йоге по субботам в 11:00 отменяются на
-      время весеннего цикла учений с 20 марта по 15 апреля. Также
-      не проводятся занятия по изучению Дхармы.
+      В период весеннего цикла учений с 20 марта по 15 апреля занятия по
+      хатха-йоге по субботам переносятся с 11:00 на 16:00, а занятия по
+      изучению Дхармы не проводятся.
     </message>
   </banner>
 
@@ -123,19 +123,12 @@
     <info>
       Хатха йога.
     </info>
-    <timeshort>Вторник 19:00, Суббота 11:00</timeshort>
+    <timeshort>Вторник 19:00, Суббота 16:00</timeshort>
     <day>Tuesday, 19:00-21:00</day>
-    <day>Saturday, 11:00-13:00</day>
+    <day>Saturday, 16:00-18:00</day>
 
     <cancel>2017-02-21</cancel>
     <cancel>2017-03-07</cancel>
-
-    <!-- because of Geshela teachings -->
-    <cancel>2017-03-25</cancel>
-    <cancel>2017-04-01</cancel>
-    <cancel>2017-04-08</cancel>
-    <cancel>2017-04-15</cancel>
-
     <cancel>2017-07-18</cancel>
     <cancel>2017-11-28</cancel>
     <cancel>2017-12-12</cancel>
@@ -243,6 +236,13 @@
 
     <cancel>2017-05-21</cancel>
     <cancel>2017-06-04</cancel>
+
+    <!-- because of Geshela teachings -->
+    <cancel>2017-03-25</cancel>
+    <cancel>2017-04-01</cancel>
+    <cancel>2017-04-08</cancel>
+    <cancel>2017-04-15</cancel>
+
   </classes>
 
 </timetable>
