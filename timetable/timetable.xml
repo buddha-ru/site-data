@@ -231,17 +231,11 @@
     </info>
     <timeshort>Суббота в 17:00, Воскресенье в 19:00</timeshort>
     <begin>2017-01-26</begin>
-    <day>Saturday, 17:00-19:00</day>
+    <day>Saturday, 17:00-19:00, Мытная</day>
     <day>Sunday, 19:00-21:00</day>
 
     <cancel>2017-05-21</cancel>
     <cancel>2017-06-04</cancel>
-
-    <!-- because of Geshela teachings -->
-    <cancel>2017-03-25</cancel>
-    <cancel>2017-04-01</cancel>
-    <cancel>2017-04-08</cancel>
-    <cancel>2017-04-15</cancel>
 
   </classes>
 
