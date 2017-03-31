@@ -105,6 +105,15 @@
     </info>
     <timeshort>Среда 19:00</timeshort>
     <day>Wedneday, 19:00</day>
+    <changes>
+      <announce>
+        С 31 марта проводятся дополнительные занятия по пятницам в 19:00.
+      </announce>
+      <begin>2017-03-31</begin>
+      <end>2017-04-14</end>
+      <day>Wedneday, 19:00</day>
+      <day>*Friday, 19:00</day>
+    </changes>
 
     <cancel>2017-03-22</cancel>
     <cancel>2017-08-02</cancel>
