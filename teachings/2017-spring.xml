@@ -24,5 +24,24 @@
       <youtube_id>KeYEwaEYhA8</youtube_id>
       <video_url/>
     </record>
+    <record>
+      <description>Внимательность. Истории о Тиво Чопо Ринпоче.</description>
+      <record_date>2017-03-27</record_date>
+      <audio_url>/audio/2017-03-27_N03_GDT_Shamatha_Moscow_128.mp3</audio_url>
+      <audio_size>76</audio_size>
+      <youtube_id>Mg6tLLbZwn0</youtube_id>
+      <video_url/>
+    </record>
+  </theme>
+  <theme>
+    <title>Комментарий к необычной Гуру-йоге</title>
+    <record>
+      <description>Мотивация начального уровня. Подношение мандалы, семь драгоценностей.</description>
+      <record_date>2017-03-25</record_date>
+      <audio_url>/audio/2017-03-25_N01_GJT_Neobichnaya_Guru-Yoga_Moscow_128.mp3</audio_url>
+      <audio_size>93</audio_size>
+      <youtube_id>pQRJbPCoiqI</youtube_id>
+      <video_url/>
+    </record>
   </theme>
 </teachings>
