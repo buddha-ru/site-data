@@ -53,6 +53,13 @@
     <day>Saturday, 12:00</end>
     <begin>2017-03-20</begin>
     <end>2017-04-15</end>
+
+    <changes>
+      <announce>
+        4 апреля Учение совмещено с Цогом.
+      </announce>
+      <date>2017-04-06</date>
+    </changes>
   </classes>
 
 <!-- ******************************* Цог **************************************** -->
@@ -90,6 +97,13 @@
     <date>2017-11-28, 19:00</date>
     <date>2017-12-12, 19:00</date>
     <date>2017-12-28, 19:00</date>
+
+    <changes>
+      <announce>
+        4 апреля Цог совмещен с Учениями Геше-ла.
+      </announce>
+      <date>2017-04-06</date>
+    </changes>
   </classes>
 
 <!-- ******************************** Тибетская йога ************************************* -->
@@ -260,5 +274,13 @@
     <cancel>2017-06-04</cancel>
 
   </classes>
+
+  <event>
+    <title>
+      <a href="/timetable?show=schedule#ucheniya-geshe-la">Учения Геше-ла</a>
+      + <a href="/timetable?show=schedule#tsog">Цог</a>
+    </title>
+    <date>2017-04-06, 19:00</date>
+  </event>
 
 </timetable>
