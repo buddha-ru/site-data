@@ -129,7 +129,6 @@
     </changes>
 
     <cancel>2017-03-22</cancel>
-    <cancel>2017-08-02</cancel>
   </classes>
 
 <!-- ******************************* Хатха-йога ********************************* -->
@@ -156,9 +155,6 @@
     <cancel>2017-02-21</cancel>
     <cancel>2017-03-07</cancel>
     <cancel>2017-04-04</cancel>
-    <cancel>2017-07-18</cancel>
-    <cancel>2017-11-28</cancel>
-    <cancel>2017-12-12</cancel>
   </classes>
 
 <!-- ******************************** Вводный курс **************************** -->
@@ -269,10 +265,6 @@
       <day>Saturday, 17:00*, Мытная</day>
       <day>Sunday, 19:00</day>
     </changes>
-
-    <cancel>2017-05-21</cancel>
-    <cancel>2017-06-04</cancel>
-
   </classes>
 
   <event>
