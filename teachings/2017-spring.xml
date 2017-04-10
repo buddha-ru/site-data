@@ -55,6 +55,7 @@
       <video_url/>
     </record>
   </theme>
+
   <theme>
     <title>Комментарий к необычной Гуру-йоге</title>
     <record>
@@ -71,6 +72,17 @@
       <audio_url>/audio/2017-04-01_N02_GJT_Neobichnaya_Guru-Yoga_Moscow_128.mp3</audio_url>
       <audio_size>92</audio_size>
       <youtube_id>v0jfL55MmiU</youtube_id>
+      <video_url/>
+    </record>
+    <record>
+      <description>
+        Подношение реализаций. Три основы пути. Объяснение посвящений.
+        внутреннее подношение.
+      </description>
+      <record_date>2017-04-08</record_date>
+      <audio_url>/audio/2017-04-08_N03_GJT_Neobichnaya_Guru-Yoga_Moscow_128.mp3</audio_url>
+      <audio_size>79</audio_size>
+      <youtube_id>RzstxBDIHec</youtube_id>
       <video_url/>
     </record>
   </theme>
