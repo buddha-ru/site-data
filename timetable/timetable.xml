@@ -14,6 +14,7 @@
 
   <banner>
     <begin>2017-04-17</begin>
+    <end>2017-04-21</end>
     <message>
       Занятия по изучению Дхармы возобновятся на следующей неделе.
       Расписание вскоре будет объявлено (подпишитесь на рассылку
@@ -125,18 +126,12 @@
     </info>
 
     <schedule>
-      <timeshort>Среда 19:00</timeshort>
+      <timeshort>
+        Среда в 19:00, каждая вторая пятница в 19:00 начиная с 28 апреля
+      </timeshort>
       <day>Wedneday, 19:00</day>
+      <day>Friday/2/2017-04-21, 19:00</day>
     </schedule>
-
-    <changes>
-      <announce>
-        С 31 марта проводятся дополнительные занятия по пятницам в 19:00.
-      </announce>
-      <begin>2017-03-31</begin>
-      <day>Wedneday, 19:00</day>
-      <day>Friday, 19:00</day>
-    </changes>
 
     <cancel>2017-03-22</cancel>
     <cancel>2017-04-21</cancel>
@@ -176,11 +171,11 @@
     <cancel>2017-04-25</cancel>
   </classes>
 
-<!-- ******************************** Вводный курс **************************** -->
+<!-- ******************************** Для начинающих **************************** -->
 
   <classes>
     <image>wheel.jpg</image>
-    <title>Вводный курс</title>
+    <title>Для начинающих</title>
     <info>
       Занятия предназначены для тех кто хочет познакомиться с буддизмом махаяны.
       Слушатели познакомятся с такими базовыми темами как четыре благородные истины,
@@ -188,10 +183,9 @@
     </info>
 
     <schedule>
-      <timeshort>Пятница в 19:00, с 20 января по 17 марта</timeshort>
-      <day>Friday, 19:00</day>
-      <begin>2017-01-20</begin>
-      <end>2017-03-17</end>
+      <timeshort>Каждая вторая пятница в 19:00, с 5 мая</timeshort>
+      <begin>2017-04-28</begin>
+      <day>Friday/2/2017-04-28, 19:00</day>
     </schedule>
 
   </classes>
@@ -207,10 +201,9 @@
     </info>
 
     <schedule>
-      <timeshort>Четверг в 19:00, с 20 января по 17 марта</timeshort>
+      <timeshort>Четверг в 19:00, с 27 апреля</timeshort>
       <day>Thursday, 19:00</day>
-      <begin>2017-01-19</begin>
-      <end>2017-03-16</end>
+      <begin>2017-04-27</begin>
     </schedule>
   </classes>
 
@@ -228,11 +221,9 @@
     </info>
 
     <schedule>
-      <timeshort>Каждое второе воскресенье в 11:00, с 29 января по 12 марта</timeshort>
-      <date>2017-01-29, 11:00</date>
-      <date>2017-02-12, 11:00</date>
-      <date>2017-02-26, 11:00</date>
-      <date>2017-03-12, 11:00</date>
+      <timeshort>Каждое второе воскресенье в 11:00, с 30 апреля</timeshort>
+      <begin>2017-04-30</begin>
+      <day>Sunday/2/2017-04-30, 11:00</day>
     </schedule>
   </classes>
 
@@ -247,11 +238,9 @@
     </info>
 
     <schedule>
-      <timeshort>Каждое второе воскресенье в 14:00, с 29 января по 12 марта</timeshort>
-      <date>2017-01-29, 14:00</date>
-      <date>2017-02-12, 14:00</date>
-      <date>2017-02-26, 14:00</date>
-      <date>2017-03-12, 14:00</date>
+      <timeshort>Каждое второе воскресенье в 14:00, с 7 мая</timeshort>
+      <begin>2017-05-07</begin>
+      <day>Sunday/2/2017-05-07, 14:00</day>
     </schedule>
   </classes>
 
