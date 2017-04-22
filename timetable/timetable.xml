@@ -50,9 +50,9 @@
 
     <schedule>
       <timeshort>Понедельник, Четверг в 19:00, Суббота в 12:00, c 20 марта по 15 апреля</timeshort>
-      <day>Monday, 19:00</end>
-      <day>Thursday, 19:00</end>
-      <day>Saturday, 12:00</end>
+      <day>Monday, 19:00</day>
+      <day>Thursday, 19:00</day>
+      <day>Saturday, 12:00</day>
       <begin>2017-03-20</begin>
       <end>2017-04-15</end>
     </schedule>
