@@ -274,17 +274,15 @@
     <image>om.jpg</image>
     <title>Тибетский язык</title>
     <info>
-      Изучение тибетского языка. Занятия в субботу предназначены для
-      начинающих, в воскресенье - для продолжающих. Ведет занятия
-      преподаватель Дава Церинг. Учебные материалы доступны на сайте
-      <a href="http://ru-tibetan.com" target="_blank">ru-tibetan.com</a>.
+      Изучение тибетского языка. Ведет занятия преподаватель Дава Церинг.
+      Учебные материалы доступны на сайте
+      <a href="http://ru-tibetan.com" target="_blank">ru&#8209;tibetan.com</a>.
     </info>
 
     <schedule>
-      <timeshort>Суббота в 17:00, Воскресенье в 19:00</timeshort>
+      <timeshort>Суббота в 17:00</timeshort>
       <begin>2017-01-26</begin>
       <day>Saturday, 17:00</day>
-      <day>Sunday, 19:00</day>
     </schedule>
 
     <changes>
