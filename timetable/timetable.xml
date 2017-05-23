@@ -310,41 +310,7 @@
     <cancel>2017-04-16</cancel>
   </classes>
 
-  <event>
-    <title>
-      <a href="/timetable?show=schedule#ucheniya-geshe-la">Учения Геше-ла</a>
-      + <a href="/timetable?show=schedule#tsog">Цог</a>
-    </title>
-    <date>2017-04-06, 19:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="news/2017-04-05/">Благословение Белой Тары</a>
-    </title>
-    <date>2017-04-16, 12:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="news/2017-04-17/">Ретрит</a>
-    </title>
-    <date>2017-04-23, 10:00, 13:30, 17:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="news/2017-05-19/">Ретрит</a>
-    </title>
-    <date>2017-05-21, 12:00, 16:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="news/2017-04-18/">Праздничный Цог</a>
-    </title>
-    <date>2017-04-25, 19:00</date>
-  </event>
+<!-- *********************************** События ************************** -->
 
   <event>
     <title>
