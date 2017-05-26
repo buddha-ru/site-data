@@ -118,8 +118,8 @@
         Среда в 19:00, понедельник в 19:00 начиная с 1 мая
       </timeshort>
       <begin>2017-04-26</begin>
-      <day>Wednesday, 19:00</day>
       <day>Monday, 19:00</day>
+      <day>Wednesday, 19:00</day>
     </schedule>
 
     <cancel>2017-03-22</cancel>
