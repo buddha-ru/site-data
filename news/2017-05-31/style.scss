@@ -1,0 +1,16 @@
+#url-2017-05-31 {
+
+table.main {
+  max-width: 550px;
+  min-width: 510px;
+}
+
+table.details {
+  max-width: 500px;
+  min-width: 400px;
+  td:nth-of-type(2) {
+    text-align: right;
+  }
+}
+
+}
