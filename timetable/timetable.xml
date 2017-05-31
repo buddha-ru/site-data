@@ -76,6 +76,13 @@
       <day>Friday/2/2017-04-28, 19:00</day>
     </schedule>
 
+    <changes>
+      <announce>Занятие 9 июня переносится на 16 июня</announce>
+      <begin>2017-06-05</begin>
+      <end>2017-06-18</end>
+      <date>2017-06-16, 19:00</date>
+    </changes>
+
   </classes>
 
 <!-- ***************************** Шаматха *************************** -->
@@ -116,6 +123,13 @@
     </schedule>
 
     <hide>2017-05-28</hide>
+
+    <changes>
+      <announce>Занятие 11 июня переносится на 18 июня</announce>
+      <begin>2017-06-05</begin>
+      <end>2017-06-18</end>
+      <date>2017-06-18, 11:00</date>
+    </changes>
   </classes>
 
 <!-- ********************************** Ламрим ********************************* -->
@@ -135,6 +149,13 @@
     </schedule>
 
     <hide>2017-05-28</hide>
+
+    <changes>
+      <announce>Занятие 11 июня переносится на 18 июня</announce>
+      <begin>2017-06-05</begin>
+      <end>2017-06-18</end>
+      <date>2017-06-18, 14:00</date>
+    </changes>
   </classes>
 
 <!-- ******************************** Тибетская йога ************************************* -->
@@ -162,6 +183,7 @@
     <cancel>2017-03-22</cancel>
     <cancel>2017-04-21</cancel>
     <cancel>2017-05-08</cancel>
+    <cancel>2017-06-05</cancel>
     <hide>2017-05-29</hide>
     <hide>2017-05-31</hide>
   </classes>
@@ -204,6 +226,8 @@
     <cancel>2017-05-16</cancel>
     <cancel>2017-05-23</cancel>
     <cancel>2017-05-27</cancel>
+    <cancel>2017-06-03</cancel>
+    <cancel>2017-06-10</cancel>
     <hide>2017-05-30</hide>
   </classes>
 
@@ -308,6 +332,21 @@
     <date>2017-05-31, 12:00-21:00</date>
     <date>2017-06-01, 12:00-21:00</date>
     <date>2017-06-02, 12:00-21:00</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="news/2017-05-31-2/">Практика Зеленой Тары</a>
+    </title>
+    <date>2017-06-04, 17:00-18:30</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="news/2017-05-31-2/">Праздничный Цог</a>
+    </title>
+    <date>2017-06-05, 19:00</date>
+    <date>2017-06-09, 19:00</date>
   </event>
 
 </timetable>
