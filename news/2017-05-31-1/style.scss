@@ -1,8 +1,4 @@
-.index#url-2017-05-31-1 {
-.fotorama { max-width: 555px; }
-}
-
-#url-2017-05-31-1 {
+> .index .fotorama { max-width: 555px; }
 
 table {
   max-width: 250px;
@@ -14,6 +10,4 @@ table {
   tbody.body {
     td:nth-of-type(3) { text-align: center; }
   }
-}
-
 }
