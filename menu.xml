@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu>
   <item>
-    <name>about</name>
     <title>О ЦЕНТРЕ</title>
     <link>/about/</link>
     <subitem>
@@ -18,22 +17,18 @@
     </subitem>
   </item>
   <item>
-    <name>teachings</name>
     <title>УЧЕНИЯ</title>
     <link>/teachings/</link>
   </item>
   <item>
-    <name>news</name>
     <title>НОВОСТИ</title>
     <link>/news?top=true</link>
   </item>
   <item>
-    <name>timetable</name>
     <title>ЗАНЯТИЯ</title>
     <link>/timetable?show=week</link>
   </item>
   <item>
-    <name>library</name>
     <title>БИБЛИОТЕКА</title>
     <link>/texts/</link>
   </item>
