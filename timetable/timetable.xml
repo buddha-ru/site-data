@@ -103,6 +103,7 @@
       <begin>2017-04-27</begin>
     </schedule>
 
+    <cancel>2017-07-06</cancel>
     <hide>2017-06-01</hide>
   </classes>
 
@@ -347,10 +348,9 @@
 
   <event>
     <title>
-      <a href="news/2017-05-31-2/">Праздничный Цог</a>
+      <a href="news/2017-07-01/">Праздничный Цог</a>
     </title>
-    <date>2017-06-05, 19:00</date>
-    <date>2017-06-09, 19:00</date>
+    <date>2017-07-06, 19:00</date>
   </event>
 
 </timetable>
