@@ -13,11 +13,13 @@
 -->
 
   <banner>
-    <begin>2017-05-15</begin>
-    <end>2017-06-02</end>
+    <begin>2017-07-11</begin>
     <message>
-      В период проведения ритуала построения мандалы Будды Медицины с 28 мая
-      по 2 июня все занятия отменяются.
+      В связи с проведением
+      <a target="_blank" href="https://www.green-tara.ru/br-2017/">
+      Всероссийского Байкальского ретрита</a> занятия по изучению Дхармы
+      не проводятся начиная с 17 июля. Занятия будут возобновлены вскоре
+      после окончания ретрита 21 августа.
     </message>
   </banner>
 
@@ -83,6 +85,7 @@
         через две недели от новой даты.
       </announce>
       <begin>2017-06-05</begin>
+      <end>2017-07-14</end>
       <day>Friday/2/2017-06-16, 19:00</day>
     </schedule>
 
@@ -101,6 +104,7 @@
       <timeshort>Четверг в 19:00, с 27 апреля</timeshort>
       <day>Thursday, 19:00</day>
       <begin>2017-04-27</begin>
+      <end>2017-07-20</end>
     </schedule>
 
     <cancel>2017-07-06</cancel>
@@ -135,6 +139,7 @@
         через две недели от новой даты.
       </announce>
       <begin>2017-06-05</begin>
+      <end>2017-07-16</end>
       <day>Sunday/2/2017-06-18, 11:00</day>
     </schedule>
   </classes>
@@ -156,6 +161,7 @@
     <schedule>
       <timeshort>Суббота в 14:00, с 8 июля</timeshort>
       <begin>2017-07-08</begin>
+      <end>2017-07-15</end>
       <day>Saturday, 14:00</day>
     </schedule>
   </classes>
@@ -185,6 +191,7 @@
         через две недели от новой даты.
       </announce>
       <begin>2017-06-05</begin>
+      <end>2017-07-16</end>
       <day>Sunday/2/2017-06-18, 14:00</day>
     </schedule>
   </classes>
@@ -219,6 +226,7 @@
     <hide>2017-05-29</hide>
     <hide>2017-05-31</hide>
     <cancel>2017-07-03</cancel>
+    <cancel>2017-08-02</cancel>
   </classes>
 
 <!-- ******************************* Хатха-йога ********************************* -->
@@ -277,6 +285,7 @@
     <schedule>
       <timeshort>Каждое второе воскресенье, с 25 июня</timeshort>
       <begin>2017-06-25</begin>
+      <end>2017-07-09</end>
       <day>Sunday/2/2017-06-25, 10:00, 13:30, 17:00</day>
     </schedule>
   </classes>
@@ -341,6 +350,7 @@
     <schedule>
       <timeshort>Суббота в 17:00 (ориентировочно)</timeshort>
       <begin>2017-01-26</begin>
+      <end>2017-07-15</end>
       <day>Saturday, 17:00, Мытная</day>
     </schedule>
 
