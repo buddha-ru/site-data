@@ -240,7 +240,8 @@
     </info>
 
     <schedule>
-      <timeshort>Суббота 11:00</timeshort>
+      <timeshort>Вторник в 19:00, Суббота в 11:00</timeshort>
+      <day>Tuesday, 19:00</day>
       <day>Saturday, 11:00</day>
     </schedule>
 
