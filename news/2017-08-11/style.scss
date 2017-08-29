@@ -1,4 +1,27 @@
-table {
+table.timetable {
   max-width: 400px;
   min-width: 350px;
+}
+
+table.days {
+  colgroup {
+    col:nth-child(1) { width: 30px; }
+    col:nth-child(2) { width: 80px; }
+  }
+  tbody.header tr td:nth-of-type(1) {
+    padding-left: 10px;
+  }
+  tbody.body tr td:nth-of-type(1) {
+    text-align: right;
+    padding-right: 10px;
+  }
+}
+
+table.days.seminar {
+  min-width: 270px;
+  max-width: 330px;
+}
+
+table.days.retrit {
+  min-width: 220px;
 }
