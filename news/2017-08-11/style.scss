@@ -5,23 +5,9 @@ table.timetable {
 
 table.days {
   colgroup {
-    col:nth-child(1) { width: 30px; }
-    col:nth-child(2) { width: 80px; }
+    col:nth-child(1) { width: 80px; }
+    col:nth-child(2) { width: 50px; }
   }
-  tbody.header tr td:nth-of-type(1) {
-    padding-left: 10px;
-  }
-  tbody.body tr td:nth-of-type(1) {
-    text-align: right;
-    padding-right: 10px;
-  }
-}
-
-table.days.seminar {
-  min-width: 270px;
-  max-width: 330px;
-}
-
-table.days.retrit {
-  min-width: 220px;
+  min-width: 320px;
+  max-width: 450px;
 }
