@@ -4,10 +4,12 @@ table.timetable {
 }
 
 table.days {
-  colgroup {
-    col:nth-child(1) { width: 80px; }
-    col:nth-child(2) { width: 50px; }
-  }
+  colgroup col:nth-child(1) { width: 60px; }
+  tbody.month td { text-align: center; }
+  tbody.days, tbody.header { tr td:nth-child(1) { text-align: center; } }
   min-width: 320px;
-  max-width: 450px;
 }
+
+table.beginners { max-width: 350px; }
+table.lamrim { max-width: 350px; }
+table.retrit { min-width: 200px; }
