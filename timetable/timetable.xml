@@ -321,6 +321,8 @@
       <date>2017-12-28, 19:15</date>
     </schedule>
 
+    <hide>2017-10-30, 19:15</hide>
+
   </classes>
 
 
@@ -375,6 +377,13 @@
       <a href="news/2017-07-01/">Праздничный Цог</a>
     </title>
     <date>2017-07-06, 19:15</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="/timetable?show=schedule#tsog">Цог c Учителем</a>
+    </title>
+    <date>2017-10-30, 19:00</date>
   </event>
 
 </timetable>
