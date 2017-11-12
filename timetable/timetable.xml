@@ -61,6 +61,7 @@
       <end>2017-12-09</end>
     </schedule>
 
+    <hide>2017-11-13</hide>
     <hide>2017-11-16</hide>
     <hide>2017-11-18</hide>
 
@@ -220,6 +221,7 @@
     <cancel>2017-08-02</cancel>
     <cancel>2017-09-27</cancel>
     <cancel>2017-10-30</cancel>
+    <cancel>2017-11-13</cancel>
   </classes>
 
 <!-- ******************************* Хатха-йога ********************************* -->
@@ -325,6 +327,7 @@
     </schedule>
 
     <hide>2017-10-30, 19:15</hide>
+    <hide>2017-11-13</hide>
 
   </classes>
 
@@ -394,6 +397,14 @@
       <a href="/news/2017-11-08/">Праздничный Цог</a>
     </title>
     <date>2017-11-10, 19:00</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="/timetable?show=schedule#ucheniya-geshe-la">Учения Геше-ла</a> +
+      <a href="/timetable?show=schedule#tsog">Цог</a>
+    </title>
+    <date>2017-11-13, 19:00</date>
   </event>
 
 </timetable>
