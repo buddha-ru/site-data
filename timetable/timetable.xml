@@ -211,6 +211,16 @@
       <day>Wednesday, 19:00</day>
     </schedule>
 
+    <changes>
+      <announce>
+        до 4 декабря включительно занятия по понедельникам будут проходить на 2 этаже.
+      </announce>
+      <begin>2017-11-20</begin>
+      <end>2017-12-04</end>
+      <day>Monday, 19:00, Весна</day>
+      <day>Wednesday, 19:00</day>
+    </changes>
+
     <cancel>2017-03-22</cancel>
     <cancel>2017-04-21</cancel>
     <cancel>2017-05-08</cancel>
@@ -244,12 +254,12 @@
 
     <changes>
       <announce>
-        С 25 марта по 15 апреля субботние занятия переносятся на 16:00.
+        до 9 декабря включительно занятия по субботам будут проходить на 2 этаже.
       </announce>
-      <begin>2017-03-20</begin>
-      <end>2017-04-16</end>
+      <begin>2017-11-25</begin>
+      <end>2017-12-09</end>
       <day>Tuesday, 19:00</day>
-      <day>Saturday, 16:00</day>
+      <day>Saturday, 11:00, Весна</day>
     </changes>
 
     <cancel>2017-02-21</cancel>
