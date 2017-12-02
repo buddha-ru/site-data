@@ -255,9 +255,18 @@
 
     <changes>
       <announce>
+        занятия 2 декабря переносятся на 13:30.
+      </announce>
+      <begin>2017-12-02</begin>
+      <end>2017-12-02</end>
+      <day>Saturday, 13:30, Весна</day>
+    </changes>
+
+    <changes>
+      <announce>
         до 9 декабря включительно занятия по субботам будут проходить на 2 этаже.
       </announce>
-      <begin>2017-11-27</begin>
+      <begin>2017-12-04</begin>
       <end>2017-12-09</end>
       <day>Tuesday, 19:00</day>
       <day>Saturday, 11:00, Весна</day>
