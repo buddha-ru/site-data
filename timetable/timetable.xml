@@ -273,6 +273,16 @@
       <day>Saturday, 11:00, Весна</day>
     </changes>
 
+    <changes>
+      <announce>
+        12 декабря занятие пройдет на 1 этаже.
+      </announce>
+      <begin>2017-12-11</begin>
+      <end>2017-12-17</end>
+      <day>Tuesday, 19:00, Весна</day>
+      <day>Saturday, 11:00</day>
+    </changes>
+
     <cancel>2017-02-21</cancel>
     <cancel>2017-03-07</cancel>
     <cancel>2017-04-04</cancel>
