@@ -160,10 +160,8 @@
     </info>
 
     <schedule>
-      <timeshort>Суббота в 14:00, со 2 сентября по 14 октября</timeshort>
-      <begin>2017-09-02</begin>
-      <end>2017-10-14</end>
-      <day>Saturday, 14:00</day>
+      <timeshort>23 декабря в субботу в 14:00</timeshort>
+      <date>2017-12-23, 14:00</date>
     </schedule>
   </classes>
 
