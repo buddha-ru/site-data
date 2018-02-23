@@ -121,20 +121,8 @@
     <schedule>
       <timeshort>Каждое второе воскресенье в 11:00, с 30 апреля</timeshort>
       <begin>2017-04-30</begin>
+      <end>2017-05-01</end>
       <day>Sunday/2/2017-04-30, 11:00</day>
-    </schedule>
-
-    <hide>2017-05-28</hide>
-
-    <schedule>
-      <timeshort>Каждое второе воскресенье в 11:00, с 30 апреля</timeshort>
-      <announce>
-        Занятие 11 июня не будет, следующее занятие будет 18 июня и далее
-        через две недели от новой даты.
-      </announce>
-      <begin>2017-06-05</begin>
-      <end>2017-07-16</end>
-      <day>Sunday/2/2017-06-18, 11:00</day>
     </schedule>
   </classes>
 
@@ -202,30 +190,6 @@
       <day>Wednesday, 19:00</day>
     </schedule>
 
-    <changes>
-      <announce>
-        до 4 декабря включительно занятия по понедельникам будут проходить на 2 этаже.
-      </announce>
-      <begin>2017-11-20</begin>
-      <end>2017-12-04</end>
-      <day>Monday, 19:00, Весна</day>
-      <day>Wednesday, 19:00</day>
-    </changes>
-
-    <cancel>2017-03-22</cancel>
-    <cancel>2017-04-21</cancel>
-    <cancel>2017-05-08</cancel>
-    <cancel>2017-06-05</cancel>
-    <cancel>2017-06-19</cancel>
-    <hide>2017-05-29</hide>
-    <hide>2017-05-31</hide>
-    <cancel>2017-07-03</cancel>
-    <cancel>2017-08-02</cancel>
-    <cancel>2017-09-27</cancel>
-    <cancel>2017-10-30</cancel>
-    <cancel>2017-11-13</cancel>
-    <cancel>2017-11-20</cancel>
-    <cancel>2017-12-04</cancel>
     <hide>2018-01-01</hide>
     <hide>2018-01-03</hide>
     <cancel>2018-02-26</cancel>
@@ -259,23 +223,6 @@
       <day>Saturday, 11:00</day>
     </changes>
 
-    <cancel>2017-02-21</cancel>
-    <cancel>2017-03-07</cancel>
-    <cancel>2017-04-04</cancel>
-    <cancel>2017-04-11</cancel>
-    <cancel>2017-04-15</cancel>
-    <cancel>2017-04-18</cancel>
-    <cancel>2017-04-25</cancel>
-    <cancel>2017-05-06</cancel>
-    <cancel>2017-05-09</cancel>
-    <cancel>2017-05-16</cancel>
-    <cancel>2017-05-23</cancel>
-    <cancel>2017-05-27</cancel>
-    <cancel>2017-06-03</cancel>
-    <cancel>2017-06-10</cancel>
-    <hide>2017-05-30</hide>
-    <cancel>2017-11-28</cancel>
-    <hide>2017-12-30</hide>
     <hide>2018-01-02</hide>
     <hide>2018-01-06</hide>
   </classes>
