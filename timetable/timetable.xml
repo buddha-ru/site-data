@@ -228,6 +228,7 @@
     <cancel>2017-12-04</cancel>
     <hide>2018-01-01</hide>
     <hide>2018-01-03</hide>
+    <cancel>2018-02-26</cancel>
   </classes>
 
 <!-- ******************************* Хатха-йога ********************************* -->
@@ -249,30 +250,12 @@
 
     <changes>
       <announce>
-        занятия 2 декабря переносятся на 13:30.
+        26 февраля в понедельник будет дополнительное занятие.
       </announce>
-      <begin>2017-12-02</begin>
-      <end>2017-12-02</end>
-      <day>Saturday, 13:30, Весна</day>
-    </changes>
-
-    <changes>
-      <announce>
-        до 9 декабря включительно занятия по субботам будут проходить на 2 этаже.
-      </announce>
-      <begin>2017-12-04</begin>
-      <end>2017-12-09</end>
+      <begin>2018-02-26</begin>
+      <end>2018-03-04</end>
+      <day>Monday, 19:00</day>
       <day>Tuesday, 19:00</day>
-      <day>Saturday, 11:00, Весна</day>
-    </changes>
-
-    <changes>
-      <announce>
-        12 декабря занятие пройдет на 1 этаже.
-      </announce>
-      <begin>2017-12-11</begin>
-      <end>2017-12-17</end>
-      <day>Tuesday, 19:00, Весна</day>
       <day>Saturday, 11:00</day>
     </changes>
 
