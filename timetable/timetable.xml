@@ -145,7 +145,7 @@
     <schedule>
       <timeshort>Суббота в 17:00, с 13 января</timeshort>
       <begin>2018-01-13</begin>
-      <end>2018-03-17</end>
+      <end>2018-03-10</end>
       <day>Saturday, 17:00</day>
     </schedule>
   </classes>
@@ -164,7 +164,7 @@
     <schedule>
       <timeshort>Суббота в 14:00, с 13 января</timeshort>
       <begin>2018-01-13</begin>
-      <end>2018-03-17</end>
+      <end>2018-03-10</end>
       <day>Saturday, 14:00</day>
     </schedule>
   </classes>
@@ -245,7 +245,7 @@
     <schedule>
       <timeshort>Каждое второе воскресенье, с 21 января</timeshort>
       <begin>2018-01-21</begin>
-      <end>2018-03-18</end>
+      <end>2018-03-04</end>
       <day>Sunday/2/2018-01-21, 10:00, 14:00, 17:00</day>
     </schedule>
   </classes>
