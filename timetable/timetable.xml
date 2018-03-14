@@ -49,7 +49,7 @@
 
     <schedule>
     <timeshort>
-      Понедельник, Четверг в 19:00, Суббота в 12:00,
+      Понедельник, Четверг 19:00 - 21:00, Суббота 12:00 - 14:00,
       c 19 марта по 21 апреля <br/>(кроме 7 апреля всвязи с проведением
       <a href="/news/2018-02-15/">ретрита по Лоджонгу</a>)
     </timeshort>
@@ -80,7 +80,7 @@
     </info>
 
     <schedule>
-      <timeshort>Вторник в 19:00, с 3 апреля</timeshort>
+      <timeshort>Вторник 19:00 - 21:30, с 3 апреля</timeshort>
       <begin>2018-04-03</begin>
       <day>Tuesday, 19:00-21:30</day>
     </schedule>
@@ -99,7 +99,7 @@
     </info>
 
     <schedule>
-      <timeshort>Пятница в 19:00, с 12 января</timeshort>
+      <timeshort>Пятница 19:00 - 21:00, с 12 января</timeshort>
       <begin>2018-01-12</begin>
       <end>2018-03-16</end>
       <day>Friday, 19:00</day>
@@ -120,7 +120,7 @@
     </info>
 
     <schedule>
-      <timeshort>Четверг в 19:00, с 18 января</timeshort>
+      <timeshort>Четверг 19:00 - 21:00, с 18 января</timeshort>
       <begin>2018-01-18</begin>
       <end>2018-03-15</end>
       <day>Thursday, 19:00</day>
@@ -144,7 +144,7 @@
     </info>
 
     <schedule>
-      <timeshort>Каждое второе воскресенье в 11:00, с 30 апреля</timeshort>
+      <timeshort>Каждое второе воскресенье 11:00 - 13:00, с 30 апреля</timeshort>
       <begin>2017-04-30</begin>
       <end>2017-05-01</end>
       <day>Sunday/2/2017-04-30, 11:00</day>
@@ -166,7 +166,7 @@
     </info>
 
     <schedule>
-      <timeshort>Суббота в 17:00, с 13 января</timeshort>
+      <timeshort>Суббота 17:00 - 19:00, с 13 января</timeshort>
       <begin>2018-01-13</begin>
       <end>2018-03-10</end>
       <day>Saturday, 17:00</day>
@@ -185,7 +185,7 @@
     </info>
 
     <schedule>
-      <timeshort>Суббота в 14:00, с 13 января</timeshort>
+      <timeshort>Суббота 14:00 - 16:00, с 13 января</timeshort>
       <begin>2018-01-13</begin>
       <end>2018-03-10</end>
       <day>Saturday, 14:00</day>
@@ -210,7 +210,7 @@
 
     <schedule>
       <timeshort>
-        Понедельник, среда в 19:00
+        Понедельник, среда 19:00 - 21:00
       </timeshort>
       <begin>2017-04-26</begin>
       <day>Monday, 19:00</day>
@@ -234,7 +234,7 @@
     </info>
 
     <schedule>
-      <timeshort>Вторник в 19:00, Суббота в 11:00</timeshort>
+      <timeshort>Вторник 19:00 - 21:00, Суббота 11:00 - 13:00</timeshort>
       <day>Tuesday, 19:00</day>
       <day>Saturday, 11:00</day>
     </schedule>
@@ -285,7 +285,7 @@
     </info>
 
     <schedule>
-      <timeshort>10 и 25 лунные дни в 19:15</timeshort>
+      <timeshort>10 и 25 лунные дни в 19:15 - 21:00</timeshort>
       <date>2018-01-11, 19:15-21:00</date>
       <date>2018-01-26, 19:15-21:00</date>
       <date>2018-02-10, 19:15-21:00</date>
@@ -366,7 +366,7 @@
     <title>
       <a href="news/2018-02-26/">Праздничный Цог</a>
     </title>
-    <date>2018-03-01, 19:15</date>
+    <date>2018-03-01, 19:15-21:00</date>
   </event>
 
 </timetable>
