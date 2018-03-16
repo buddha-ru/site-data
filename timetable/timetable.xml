@@ -239,17 +239,6 @@
       <day>Saturday, 11:00</day>
     </schedule>
 
-    <changes>
-      <announce>
-        26 февраля в понедельник будет дополнительное занятие.
-      </announce>
-      <begin>2018-02-26</begin>
-      <end>2018-03-04</end>
-      <day>Monday, 19:00</day>
-      <day>Tuesday, 19:00</day>
-      <day>Saturday, 11:00</day>
-    </changes>
-
     <hide>2018-01-02</hide>
     <hide>2018-01-06</hide>
   </classes>
