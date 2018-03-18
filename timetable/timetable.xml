@@ -251,25 +251,12 @@
     </schedule>
 
     <schedule>
-      <timeshort>Вторник 19:00 - 21:00, Пятница 19:00 - 21:00, Воскресенье 12:00 - 14:00</timeshort>
+      <timeshort>Воскресенье 12:00 - 14:00</timeshort>
       <announce>
-        Начиная с 19 марта занятий по субботам не будет, но будут занятия по
-        пятницам с 19:00 до 21:00 и по воскресеньям с 12:00 до 14:00
+        Начиная с 19 марта занятия будут только по воскресеньям с 14:00 до 16:00
       </announce>
       <begin>2018-03-19</begin>
-      <day>Tuesday, 19:00</day>
-      <day>Friday, 19:00</day>
-      <day>Sunday, 12:00</day>
-    </schedule>
-
-    <schedule>
-      <timeshort>Пятница 19:00 - 21:00, Воскресенье 12:00 - 14:00</timeshort>
-      <announce>
-        Начиная со 2 апреля занятий по вторникам не будет
-      </announce>
-      <begin>2018-04-02</begin>
-      <day>Friday, 19:00</day>
-      <day>Sunday, 12:00</day>
+      <day>Sunday, 14:00</day>
     </schedule>
 
     <hide>2018-01-02</hide>
