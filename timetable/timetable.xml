@@ -60,6 +60,7 @@
       <end>2018-04-21</end>
     </schedule>
 
+    <hide>2018-03-26</hide>
     <hide>2018-04-07</hide>
   </classes>
 
@@ -327,6 +328,7 @@
     <hide>2017-11-13</hide>
     <hide>2017-11-28</hide>
     <hide>2017-12-12</hide>
+    <hide>2018-03-26</hide>
 
   </classes>
 
@@ -375,6 +377,14 @@
       <a href="news/2018-02-26/">Праздничный Цог</a>
     </title>
     <date>2018-03-01, 19:15-21:00</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="/timetable?show=schedule#ucheniya-geshe-la">Учения</a>
+      + <a href="/timetable?show=schedule#tsog">Цог</a>
+    </title>
+    <date>2018-03-26, 19:00</date>
   </event>
 
 </timetable>
