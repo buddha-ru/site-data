@@ -336,6 +336,7 @@
     <hide>2017-11-28</hide>
     <hide>2017-12-12</hide>
     <hide>2018-03-26</hide>
+    <hide>2018-04-10</hide>
 
   </classes>
 
@@ -392,6 +393,13 @@
       + <a href="/timetable?show=schedule#tsog">Цог</a>
     </title>
     <date>2018-03-26, 19:00</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="/timetable?show=schedule#tsog">Цог с Учителем</a>
+    </title>
+    <date>2018-04-10, 19:00-21:00</date>
   </event>
 
 </timetable>
