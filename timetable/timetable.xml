@@ -239,6 +239,7 @@
     <hide>2018-01-01</hide>
     <hide>2018-01-03</hide>
     <cancel>2018-02-26</cancel>
+    <cancel>2018-04-25</cancel>
   </classes>
 
 <!-- ******************************* Хатха-йога ********************************* -->
@@ -337,6 +338,7 @@
     <hide>2017-12-12</hide>
     <hide>2018-03-26</hide>
     <hide>2018-04-10</hide>
+    <hide>2018-04-25</hide>
 
   </classes>
 
@@ -400,6 +402,13 @@
       <a href="/timetable?show=schedule#tsog">Цог с Учителем</a>
     </title>
     <date>2018-04-10, 19:00-21:00</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="/news/2018-04-21/">Праздничный Цог</a>
+    </title>
+    <date>2018-04-25, 19:00-21:00</date>
   </event>
 
 </timetable>
