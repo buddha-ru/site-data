@@ -93,6 +93,13 @@
       <day>Tuesday, 19:00-21:30, Весна</day>
     </changes>
 
+    <changes>
+      <announce>Занятие 8 мая переносится на 10 мая и пройдет на втором этаже</announce>
+      <begin>2018-05-07</begin>
+      <end>2018-05-13</end>
+      <day>Thursday, 19:00-21:30, Весна</day>
+    </changes>
+
     <cancel>2018-05-01</cancel>
   </classes>
 
