@@ -238,6 +238,17 @@
       <day>Wednesday, 19:00</day>
     </schedule>
 
+    <schedule>
+      <timeshort>
+        Понедельник 19:00 - 21:00
+      </timeshort>
+      <announce>
+        Начиная с 30 апреля по понедельникам 19:00 - 21:00
+      </announce>
+      <begin>2018-04-30</begin>
+      <day>Monday, 19:00</day>
+    </schedule>
+
     <hide>2018-01-01</hide>
     <hide>2018-01-03</hide>
     <cancel>2018-02-26</cancel>
@@ -268,6 +279,18 @@
       </announce>
       <begin>2018-03-19</begin>
       <day>Friday, 19:00</day>
+    </schedule>
+
+    <schedule>
+      <timeshort>
+        Среда 19:00 - 21:00 (любой уровень), Суббота 11:00 - 13:00 (продолжающие)
+      </timeshort>
+      <announce>
+        Начиная с 30 апреля по средам 19:00 - 21:00 и субботам 11:00 - 13:00
+      </announce>
+      <begin>2018-04-30</begin>
+      <day>Wednesday, 19:00</day>
+      <day>Saturday, 11:00</day>
     </schedule>
 
     <hide>2018-01-02</hide>
