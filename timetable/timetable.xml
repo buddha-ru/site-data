@@ -220,15 +220,6 @@
 
     <schedule>
       <timeshort>
-        Понедельник, среда 19:00 - 21:00
-      </timeshort>
-      <begin>2017-04-26</begin>
-      <day>Monday, 19:00</day>
-      <day>Wednesday, 19:00</day>
-    </schedule>
-
-    <schedule>
-      <timeshort>
         Среда 19:00 - 21:00
       </timeshort>
       <announce>
@@ -265,12 +256,6 @@
       месяца - 2000 руб. (250 руб. за занятие). Стоимость абонемента на 4 занятий в течении
       месяца - 1300 руб. (325 руб. за занятие).
     </info>
-
-    <schedule>
-      <timeshort>Вторник 19:00 - 21:00, Суббота 11:00 - 13:00</timeshort>
-      <day>Tuesday, 19:00</day>
-      <day>Saturday, 11:00</day>
-    </schedule>
 
     <schedule>
       <timeshort>Пятница 19:00 - 21:00</timeshort>
