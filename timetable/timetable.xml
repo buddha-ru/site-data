@@ -87,20 +87,6 @@
       <day>Tuesday, 19:00-21:30</day>
     </schedule>
 
-    <changes>
-      <announce>Занятие 10 апреля пройдет на втором этаже</announce>
-      <begin>2018-04-09</begin>
-      <end>2018-04-15</end>
-      <day>Tuesday, 19:00-21:30, Весна</day>
-    </changes>
-
-    <changes>
-      <announce>Занятие 8 мая переносится на 10 мая и пройдет на втором этаже</announce>
-      <begin>2018-05-07</begin>
-      <end>2018-05-13</end>
-      <day>Thursday, 19:00-21:30, Весна</day>
-    </changes>
-
     <cancel>2018-05-01</cancel>
   </classes>
 
@@ -218,17 +204,6 @@
 
     <schedule>
       <timeshort>
-        Среда 19:00 - 21:00
-      </timeshort>
-      <announce>
-        Начиная со 19 марта занятия будут проходить только по средам.
-      </announce>
-      <begin>2018-03-19</begin>
-      <day>Wednesday, 19:00</day>
-    </schedule>
-
-    <schedule>
-      <timeshort>
         Понедельник 19:00 - 21:00
       </timeshort>
       <announce>
@@ -254,15 +229,6 @@
       месяца - 2000 руб. (250 руб. за занятие). Стоимость абонемента на 4 занятий в течении
       месяца - 1300 руб. (325 руб. за занятие).
     </info>
-
-    <schedule>
-      <timeshort>Пятница 19:00 - 21:00</timeshort>
-      <announce>
-        Начиная с 19 марта занятия будут только по пятницам с 19:00 до 21:00
-      </announce>
-      <begin>2018-03-19</begin>
-      <day>Friday, 19:00</day>
-    </schedule>
 
     <schedule>
       <timeshort>
@@ -389,40 +355,6 @@
   </classes>
 
 <!-- *********************************** События ************************** -->
-
-  <event>
-    <title>
-      <a href="news/2017-05-16/">Построение мандалы</a>
-    </title>
-    <date>2017-05-28, 12:00-21:00</date>
-    <date>2017-05-29, 12:00-21:00</date>
-    <date>2017-05-30, 12:00-21:00</date>
-    <date>2017-05-31, 12:00-21:00</date>
-    <date>2017-06-01, 12:00-21:00</date>
-    <date>2017-06-02, 12:00-21:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="news/2018-02-26/">Праздничный Цог</a>
-    </title>
-    <date>2018-03-01, 19:15-21:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="/timetable?show=schedule#ucheniya-geshe-la">Учения</a>
-      + <a href="/timetable?show=schedule#tsog">Цог</a>
-    </title>
-    <date>2018-03-26, 19:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="/timetable?show=schedule#tsog">Цог с Учителем</a>
-    </title>
-    <date>2018-04-10, 19:00-21:00</date>
-  </event>
 
   <event>
     <title>
