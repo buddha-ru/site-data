@@ -244,12 +244,12 @@
 
     <changes>
       <announce>
-        Занятие в субботу переносится на воскресенье, время то же.
+        Занятие в субботу переносится на воскресенье в 12:00
       </announce>
       <begin>2018-05-14</begin>
       <end>2018-05-20</end>
       <day>Wednesday, 19:00</day>
-      <day>Sunday, 11:00</day>
+      <day>Sunday, 12:00</day>
     </changes>
 
     <hide>2018-01-02</hide>
