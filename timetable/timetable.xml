@@ -87,6 +87,15 @@
       <day>Tuesday, 19:00-21:30</day>
     </schedule>
 
+    <changes>
+      <announce>
+        Занятие 29 мая пройдет на втором этаже
+      </announce>
+      <begin>2018-05-28</begin>
+      <end>2018-06-03</end>
+      <day>Tuesday, 19:00-21:30, Весна</day>
+    </changes>
+
     <cancel>2018-05-01</cancel>
   </classes>
 
@@ -377,6 +386,13 @@
       <a href="/news/2018-04-21/">Праздничный Цог</a>
     </title>
     <date>2018-04-25, 19:00-21:00</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="/news/2018-05-25/">Праздничный Цог</a>
+    </title>
+    <date>2018-05-29, 19:15-21:00</date>
   </event>
 
 </timetable>
