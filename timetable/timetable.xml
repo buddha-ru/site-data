@@ -303,6 +303,7 @@
 
     <cancel>2018-05-09</cancel>
     <cancel>2018-06-09</cancel>
+    <cancel>2018-06-13</cancel>
   </classes>
 
 
@@ -422,6 +423,13 @@
       <a href="/news/2018-05-31/">Праздничный Цог</a>
     </title>
     <date>2018-06-05, 19:15-21:00</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="/news/2018-06-06/">Лекция по тибетской медицине</a>
+    </title>
+    <date>2018-06-13, 18:30-21:00</date>
   </event>
 
 </timetable>
