@@ -187,8 +187,14 @@
       <day>Saturday, 17:00</day>
     </schedule>
 
+    <changes>
+      <announce>Занятие 9 июня переносится на воскресенье 10 июня</announce>
+      <begin>2018-06-04</begin>
+      <end>2018-06-10</end>
+      <day>Sunday, 17:00</day>
+    </changes>
+
     <cancel>2018-05-26</cancel>
-    <cancel>2018-06-09</cancel>
   </classes>
 
 <!-- ********************************** Ламрим ********************************* -->
@@ -208,8 +214,14 @@
       <day>Saturday, 14:00</day>
     </schedule>
 
+    <changes>
+      <announce>Занятие 9 июня переносится на воскресенье 10 июня</announce>
+      <begin>2018-06-04</begin>
+      <end>2018-06-10</end>
+      <day>Sunday, 14:00</day>
+    </changes>
+
     <cancel>2018-05-26</cancel>
-    <cancel>2018-06-09</cancel>
   </classes>
 
 <!-- ******************************** Тибетская йога ************************************* -->
