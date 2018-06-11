@@ -282,36 +282,6 @@
 
     <changes>
       <announce>
-        Занятие в субботу переносится на воскресенье в 12:00
-      </announce>
-      <begin>2018-05-14</begin>
-      <end>2018-05-20</end>
-      <day>Wednesday, 19:00</day>
-      <day>Sunday, 12:00</day>
-    </changes>
-
-    <changes>
-      <announce>
-        Занятие в субботу  26 мая пройдет на 2 этаже
-      </announce>
-      <begin>2018-05-21</begin>
-      <end>2018-05-27</end>
-      <day>Wednesday, 19:00</day>
-      <day>Saturday, 12:00, Весна</day>
-    </changes>
-
-    <changes>
-      <announce>
-        Занятие в субботу 2 июня переносится на воскресенье 3 июня в 12:00
-      </announce>
-      <begin>2018-05-28</begin>
-      <end>2018-06-03</end>
-      <day>Wednesday, 19:00</day>
-      <day>Sunday, 12:00</day>
-    </changes>
-
-    <changes>
-      <announce>
         Занятие в среду 13 июня пройдет на 1 этаже
       </announce>
       <begin>2018-06-11</begin>
