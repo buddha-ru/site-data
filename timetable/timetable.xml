@@ -310,12 +310,21 @@
       <day>Sunday, 12:00</day>
     </changes>
 
+    <changes>
+      <announce>
+        Занятие в среду 13 июня пройдет на 1 этаже
+      </announce>
+      <begin>2018-06-11</begin>
+      <end>2018-06-17</end>
+      <day>Wednesday, 19:00, Весна</day>
+      <day>Saturday, 11:00</day>
+    </changes>
+
     <hide>2018-01-02</hide>
     <hide>2018-01-06</hide>
 
     <cancel>2018-05-09</cancel>
     <cancel>2018-06-09</cancel>
-    <cancel>2018-06-13</cancel>
   </classes>
 
 
