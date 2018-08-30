@@ -14,9 +14,7 @@
 
   <banner>
     <message>
-      Занятия по изучению Дхармы и практике йоги приостанавливаются на время проведения
-      <a href="https://www.green-tara.ru/br-2018/" target="_blank">Байкальского ретрита</a>.
-      Они будут возобновлены вскоре после окончания ретрита (конец августа).
+      Занятия по изучению Дхармы не будут проводиться до весны 2019 года.
     </message>
     <begin>2018-07-16</begin>
   </banner>
@@ -247,21 +245,11 @@
 
     <schedule>
       <timeshort>
-        Понедельник 19:00 - 21:00
+        Среда 19:00 - 21:00
       </timeshort>
-      <announce>
-        Начиная с 30 апреля по понедельникам 19:00 - 21:00
-      </announce>
-      <begin>2018-04-30</begin>
-      <end>2018-07-23</end>
-      <day>Monday, 19:00</day>
+      <begin>2018-09-12</begin>
+      <day>Wednesday, 19:00</day>
     </schedule>
-
-    <hide>2018-01-01</hide>
-    <hide>2018-01-03</hide>
-    <cancel>2018-02-26</cancel>
-    <cancel>2018-04-25</cancel>
-    <cancel>2018-07-16</cancel>
   </classes>
 
 <!-- ******************************* Хатха-йога ********************************* -->
@@ -278,32 +266,12 @@
 
     <schedule>
       <timeshort>
-        Среда 19:00 - 21:00 (любой уровень), Суббота 11:00 - 13:00 (продолжающие)
+        Понедельник 19:00 - 21:00, Пятница 19:00 - 21:00
       </timeshort>
-      <announce>
-        Начиная с 30 апреля по средам 19:00 - 21:00 и субботам 11:00 - 13:00
-      </announce>
-      <begin>2018-04-30</begin>
-      <end>2018-07-21</end>
-      <day>Wednesday, 19:00</day>
-      <day>Saturday, 11:00</day>
+      <begin>2018-09-07</begin>
+      <day>Monday, 19:00</day>
+      <day>Friday, 19:00</day>
     </schedule>
-
-    <changes>
-      <announce>
-        Занятие в среду 13 июня пройдет на 1 этаже
-      </announce>
-      <begin>2018-06-11</begin>
-      <end>2018-06-17</end>
-      <day>Wednesday, 19:00, Весна</day>
-      <day>Saturday, 11:00</day>
-    </changes>
-
-    <hide>2018-01-02</hide>
-    <hide>2018-01-06</hide>
-
-    <cancel>2018-05-09</cancel>
-    <cancel>2018-06-09</cancel>
   </classes>
 
 
