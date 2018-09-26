@@ -83,6 +83,13 @@
       <day>Tuesday, 19:00-21:30</day>
     </schedule>
 
+    <changes>
+      <announce>Занятие 2 октября состоится в понедельник 1 октября на 2 этаже в красном зале</announce>
+      <begin>2018-10-01</begin>
+      <end>2018-10-07</end>
+      <day>Monday, 19:00-21:30, Весна</day>
+    </changes>
+
     <cancel>2018-05-01</cancel>
   </classes>
 
