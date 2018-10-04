@@ -263,6 +263,8 @@
       <day>Monday, 19:00</day>
       <day>Friday, 19:00</day>
     </schedule>
+
+    <cancel>2018-10-08</cancel>
   </classes>
 
 
@@ -382,6 +384,13 @@
       <a href="/news/2018-07-09-1/">Праздничный Цог</a>
     </title>
     <date>2018-07-16, 19:15-21:00</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="/news/2018-09-17/">Лекция по тибетской медицине</a>
+    </title>
+    <date>2018-10-08, 19:00-21:00</date>
   </event>
 
 </timetable>
