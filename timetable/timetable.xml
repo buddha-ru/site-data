@@ -241,6 +241,7 @@
     </schedule>
 
     <cancel>2018-09-19</cancel>
+    <cancel>2018-10-31</cancel>
   </classes>
 
 <!-- ******************************* Хатха-йога ********************************* -->
@@ -263,6 +264,14 @@
       <day>Monday, 19:00</day>
       <day>Friday, 19:00</day>
     </schedule>
+
+    <changes>
+      <announce>Занятие 2 ноября пройдет на 1 этаже</announce>
+      <begin>2018-10-29</begin>
+      <end>2018-11-04</end>
+      <day>Monday, 19:00</day>
+      <day>Friday, 19:00, Весна</day>
+    </changes>
 
     <cancel>2018-10-08</cancel>
     <cancel>2018-10-19</cancel>
