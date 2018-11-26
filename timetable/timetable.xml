@@ -259,11 +259,12 @@
 
     <schedule>
       <timeshort>
-        Понедельник 19:00 - 21:00, Пятница 19:00 - 21:00, c 7 сентября
+        Понедельник 19:00 - 21:00, Пятница 19:00 - 21:00, Суббота 11:00 - 13:00
       </timeshort>
       <begin>2018-09-07</begin>
       <day>Monday, 19:00</day>
       <day>Friday, 19:00</day>
+      <day>Saturday, 11:00</day>
     </schedule>
 
     <changes>
