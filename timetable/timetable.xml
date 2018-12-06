@@ -277,6 +277,7 @@
 
     <cancel>2018-10-08</cancel>
     <cancel>2018-10-19</cancel>
+    <cancel>2018-12-10</cancel>
   </classes>
 
 
@@ -425,6 +426,13 @@
       <a href="/news/2018-11-27/">Праздничный Цог</a>
     </title>
     <date>2018-12-02, 19:15-21:00</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="/news/2018-12-06/">Праздничный Цог</a>
+    </title>
+    <date>2018-12-10, 19:15-21:00</date>
   </event>
 
 </timetable>
