@@ -90,6 +90,12 @@
       <day>Monday, 19:00-21:30, Весна</day>
     </changes>
 
+    <changes>
+      <announce>В связи с праздниками занятий 1 и 8 января не будет</announce>
+      <begin>2018-12-31</begin>
+      <end>2019-01-13</end>
+    </changes>
+
     <cancel>2018-05-01</cancel>
   </classes>
 
@@ -273,6 +279,22 @@
       <end>2018-11-04</end>
       <day>Monday, 19:00</day>
       <day>Friday, 19:00, Весна</day>
+    </changes>
+
+    <changes>
+      <announce>В связи с праздниками занятие 29 декабря переносится на 19:00</announce>
+      <begin>2018-12-24</begin>
+      <end>2018-12-30</end>
+      <day>Monday, 19:00</day>
+      <day>Friday, 19:00</day>
+      <day>Saturday, 19:00</day>
+    </changes>
+
+    <changes>
+      <announce>В связи с праздниками занятий 31 декабря и 5 января не будет</announce>
+      <begin>2018-12-31</begin>
+      <end>2019-01-06</end>
+      <day>Friday, 19:00</day>
     </changes>
 
     <cancel>2018-10-08</cancel>
