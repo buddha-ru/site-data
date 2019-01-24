@@ -1,0 +1,19 @@
+table.timetable {
+  min-width: 400px;
+  max-width: 600px;
+  tbody tr td:nth-of-type(3) {
+    vertical-align: middle;
+  }
+}
+
+table.prices {
+  min-width: 400px;
+  max-width: 500px;
+}
+
+table.contacts {
+  min-width: 450px;
+  max-width: 600px;
+}
+
+#ershovo { height: 400px; }
