@@ -96,6 +96,13 @@
       <end>2019-01-13</end>
     </changes>
 
+    <changes>
+      <announce>Занятие 5 февраля пройдет на 1 или 2 этаже</announce>
+      <begin>2019-02-04</begin>
+      <end>2019-02-10</end>
+      <day>Tuesday, 19:00-21:30, Весна</day>
+    </changes>
+
     <cancel>2018-05-01</cancel>
   </classes>
 
@@ -411,6 +418,13 @@
       <a href="/news/2018-12-06/">Праздничный Цог</a>
     </title>
     <date>2018-12-10, 19:15-21:00</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="/news/2019-02-05/">Праздничный Цог</a>
+    </title>
+    <date>2019-02-05, 19:15-21:00</date>
   </event>
 
 </timetable>
