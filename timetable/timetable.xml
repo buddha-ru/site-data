@@ -306,6 +306,13 @@
       <day>Friday, 19:00</day>
     </changes>
 
+    <changes>
+      <announce>Занятие 15 февраля пройдет на 2 этаже</announce>
+      <begin>2019-02-15</begin>
+      <end>2019-02-15</end>
+      <day>Friday, 19:00, Весна</day>
+    </changes>
+
     <cancel>2018-10-08</cancel>
     <cancel>2018-10-19</cancel>
     <cancel>2018-12-10</cancel>
