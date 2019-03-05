@@ -320,6 +320,13 @@
       <day>Friday, 19:00, Весна</day>
     </changes>
 
+    <changes>
+      <announce>Занятие в пятницу 8 марта переносится на 11:00</announce>
+      <begin>2019-03-08</begin>
+      <end>2019-03-08</end>
+      <day>Friday, 11:00</day>
+    </changes>
+
     <cancel>2018-10-08</cancel>
     <cancel>2018-10-19</cancel>
     <cancel>2018-12-10</cancel>
