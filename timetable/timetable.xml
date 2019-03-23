@@ -289,44 +289,6 @@
       <day>Saturday, 11:00</day>
     </schedule>
 
-    <changes>
-      <announce>Занятие 2 ноября пройдет на 1 этаже</announce>
-      <begin>2018-10-29</begin>
-      <end>2018-11-04</end>
-      <day>Monday, 19:00</day>
-      <day>Friday, 19:00, Весна</day>
-    </changes>
-
-    <changes>
-      <announce>В связи с праздниками занятие 29 декабря переносится на 19:00</announce>
-      <begin>2018-12-24</begin>
-      <end>2018-12-30</end>
-      <day>Monday, 19:00</day>
-      <day>Friday, 19:00</day>
-      <day>Saturday, 19:00</day>
-    </changes>
-
-    <changes>
-      <announce>В связи с праздниками занятий 31 декабря и 5 января не будет</announce>
-      <begin>2018-12-31</begin>
-      <end>2019-01-06</end>
-      <day>Friday, 19:00</day>
-    </changes>
-
-    <changes>
-      <announce>Занятие 15 февраля пройдет на 2 этаже</announce>
-      <begin>2019-02-15</begin>
-      <end>2019-02-15</end>
-      <day>Friday, 19:00, Весна</day>
-    </changes>
-
-    <changes>
-      <announce>Занятие в пятницу 8 марта переносится на 11:00</announce>
-      <begin>2019-03-08</begin>
-      <end>2019-03-08</end>
-      <day>Friday, 11:00</day>
-    </changes>
-
     <cancel>2018-10-08</cancel>
     <cancel>2018-10-19</cancel>
     <cancel>2018-12-10</cancel>
