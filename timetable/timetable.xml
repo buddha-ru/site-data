@@ -289,18 +289,16 @@
       <day>Saturday, 11:00</day>
     </schedule>
 
-    <schedule>
+    <changes>
       <announce>
         На время проведения учений будет следующее расписание:
         Пятница 19:00 - 21:00, Воскресенье 11:00 - 13:00
       </announce>
-      <timeshort>
-        Пятница 19:00 - 21:00, Воскресенье 11:00 - 13:00
-      </timeshort>
       <begin>2019-04-01</begin>
+      <end>2019-06-01</end>
       <day>Friday, 19:00</day>
       <day>Sunday, 11:00</day>
-    </schedule>
+    </changes>
 
 
     <cancel>2018-10-08</cancel>
