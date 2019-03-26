@@ -292,6 +292,19 @@
 
     <changes>
       <announce>
+        В связи с отменами ввиду подготовки к Учениям будет проведено
+        дополнительное занятие в воскресенье 31 марта в 11:00
+      </announce>
+      <begin>2019-03-25</begin>
+      <end>2019-03-31</end>
+      <day>Monday, 19:00</day>
+      <day>Friday, 19:00</day>
+      <day>Saturday, 11:00</day>
+      <day>Sunday, 11:00</day>
+    </changes>
+
+    <changes>
+      <announce>
         На время проведения Учений будет следующее расписание:
         Пятница 19:00 - 21:00, Воскресенье 11:00 - 13:00
       </announce>
@@ -309,6 +322,8 @@
     <cancel>2019-01-12</cancel>
     <cancel>2019-02-09</cancel>
     <cancel>2019-03-01</cancel>
+    <cancel>2019-03-29</cancel>
+    <cancel>2019-03-30</cancel>
     <cancel>2019-04-14</cancel>
   </classes>
 
