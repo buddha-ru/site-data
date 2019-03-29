@@ -396,6 +396,7 @@
     <hide>2018-04-10</hide>
     <hide>2018-04-25</hide>
     <hide>2018-12-02</hide>
+    <hide>2019-03-30</hide>
     <cancel>2019-04-14</cancel>
 
   </classes>
@@ -454,6 +455,13 @@
       <a href="/news/2019-02-13/">Праздничный Цог</a>
     </title>
     <date>2019-02-19, 19:15-21:00</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="/timetable?show=schedule#tsog">Цог с Учителем</a>
+    </title>
+    <date>2019-03-30, 19:00-21:00</date>
   </event>
 
 </timetable>
