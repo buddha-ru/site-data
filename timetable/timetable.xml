@@ -266,6 +266,7 @@
     <cancel>2018-11-14</cancel>
     <cancel>2019-01-16</cancel>
     <cancel>2019-01-30</cancel>
+    <cancel>2019-04-17</cancel>
   </classes>
 
 <!-- ******************************* Хатха-йога ********************************* -->
@@ -309,6 +310,28 @@
         Пятница 19:00 - 21:00, Воскресенье 11:00 - 13:00
       </announce>
       <begin>2019-04-01</begin>
+      <end>2019-04-14</end>
+      <day>Friday, 19:00</day>
+      <day>Sunday, 11:00</day>
+    </changes>
+
+    <changes>
+      <announce>
+        17 апреля в среду будет занятие по хатха-йоге вместо тибетской
+      </announce>
+      <begin>2019-04-15</begin>
+      <end>2019-04-21</end>
+      <day>Wednesday, 19:00</day>
+      <day>Friday, 19:00</day>
+      <day>Sunday, 11:00</day>
+    </changes>
+
+    <changes>
+      <announce>
+        На время проведения Учений будет следующее расписание:
+        Пятница 19:00 - 21:00, Воскресенье 11:00 - 13:00
+      </announce>
+      <begin>2019-04-22</begin>
       <end>2019-06-01</end>
       <day>Friday, 19:00</day>
       <day>Sunday, 11:00</day>
