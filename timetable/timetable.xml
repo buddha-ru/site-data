@@ -291,53 +291,6 @@
       <day>Saturday, 11:00</day>
     </schedule>
 
-    <changes>
-      <announce>
-        В связи с отменами ввиду подготовки к Учениям будет проведено
-        дополнительное занятие в воскресенье 31 марта в 11:00
-      </announce>
-      <begin>2019-03-25</begin>
-      <end>2019-03-31</end>
-      <day>Monday, 19:00</day>
-      <day>Friday, 19:00</day>
-      <day>Saturday, 11:00</day>
-      <day>Sunday, 11:00</day>
-    </changes>
-
-    <changes>
-      <announce>
-        На время проведения Учений будет следующее расписание:
-        Пятница 19:00 - 21:00, Воскресенье 11:00 - 13:00
-      </announce>
-      <begin>2019-04-01</begin>
-      <end>2019-04-14</end>
-      <day>Friday, 19:00</day>
-      <day>Sunday, 11:00</day>
-    </changes>
-
-    <changes>
-      <announce>
-        17 апреля в среду будет занятие по хатха-йоге вместо тибетской
-      </announce>
-      <begin>2019-04-15</begin>
-      <end>2019-04-21</end>
-      <day>Wednesday, 19:00</day>
-      <day>Friday, 19:00</day>
-      <day>Sunday, 11:00</day>
-    </changes>
-
-    <changes>
-      <announce>
-        На время проведения Учений будет следующее расписание:
-        Пятница 19:00 - 21:00, Воскресенье 11:00 - 13:00
-      </announce>
-      <begin>2019-04-22</begin>
-      <end>2019-06-01</end>
-      <day>Friday, 19:00</day>
-      <day>Sunday, 11:00</day>
-    </changes>
-
-
     <cancel>2018-10-08</cancel>
     <cancel>2018-10-19</cancel>
     <cancel>2018-12-10</cancel>
