@@ -292,6 +292,18 @@
       <day>Saturday, 11:00</day>
     </schedule>
 
+    <schedule>
+      <timeshort>
+        Понедельник 19:00 - 21:00, Суббота 11:00 - 13:00
+      </timeshort>
+      <announce>
+        Начиная с 6 мая занятия по пятницам проводиться не будут.
+      </announce>
+      <begin>2019-05-06</begin>
+      <day>Monday, 19:00</day>
+      <day>Saturday, 11:00</day>
+    </schedule>
+
     <cancel>2018-10-08</cancel>
     <cancel>2018-10-19</cancel>
     <cancel>2018-12-10</cancel>
