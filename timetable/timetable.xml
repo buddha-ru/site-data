@@ -424,53 +424,5 @@
 
 <!-- *********************************** События ************************** -->
 
-  <event>
-    <title>
-      <a href="/news/2018-12-06/">Праздничный Цог</a>
-    </title>
-    <date>2018-12-10, 19:15-21:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="/news/2019-02-05/">Праздничный Цог</a>
-    </title>
-    <date>2019-02-05, 19:15-21:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="/news/2019-01-24/">Лекция по тибетской медицине</a>
-    </title>
-    <date>2019-02-15, 19:00-21:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="/news/2019-02-13/">Праздничный Цог</a>
-    </title>
-    <date>2019-02-19, 19:15-21:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="/timetable?show=schedule#tsog">Цог с Учителем</a>
-    </title>
-    <date>2019-03-30, 19:00-21:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="/news/2019-03-23/">Лекция по тибетской медицине</a>
-    </title>
-    <date>2019-04-16, 19:00-21:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="/news/2019-04-23/">Праздничный Цог</a>
-    </title>
-    <date>2019-04-25, 19:15-21:00</date>
-  </event>
 
 </timetable>
