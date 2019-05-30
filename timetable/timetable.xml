@@ -130,7 +130,7 @@
     <schedule>
       <timeshort>Пятница 19:00 - 21:00, с 10 мая</timeshort>
       <begin>2019-05-10</begin>
-      <day>Friday, 19:00</day>
+      <day>Friday, 19:00-21:00</day>
     </schedule>
 
     <changes>
@@ -154,7 +154,7 @@
     <schedule>
       <timeshort>Четверг 19:00 - 21:00, с 30 мая</timeshort>
       <begin>2019-05-30</begin>
-      <day>Thursday, 19:00</day>
+      <day>Thursday, 19:00-21:00</day>
     </schedule>
 
     <changes>
@@ -204,7 +204,7 @@
     <schedule>
       <timeshort>Суббота 17:00 - 19:00, с 4 мая</timeshort>
       <begin>2018-05-04</begin>
-      <day>Saturday, 17:00</day>
+      <day>Saturday, 17:00-19:00</day>
     </schedule>
 
     <changes>
@@ -278,7 +278,7 @@
         Среда 19:00 - 21:00
       </timeshort>
       <begin>2018-09-12</begin>
-      <day>Wednesday, 19:00</day>
+      <day>Wednesday, 19:00-21:00</day>
     </schedule>
 
     <changes>
@@ -318,8 +318,8 @@
         Начиная с 6 мая занятия по пятницам проводиться не будут.
       </announce>
       <begin>2019-05-06</begin>
-      <day>Monday, 19:00</day>
-      <day>Saturday, 11:00</day>
+      <day>Monday, 19:00-21:00</day>
+      <day>Saturday, 11:00-13:00</day>
     </schedule>
 
     <changes>
