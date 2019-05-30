@@ -312,16 +312,6 @@
 
     <schedule>
       <timeshort>
-        Понедельник 19:00 - 21:00, Пятница 19:00 - 21:00, Суббота 11:00 - 13:00
-      </timeshort>
-      <begin>2018-09-07</begin>
-      <day>Monday, 19:00</day>
-      <day>Friday, 19:00</day>
-      <day>Saturday, 11:00</day>
-    </schedule>
-
-    <schedule>
-      <timeshort>
         Понедельник 19:00 - 21:00, Суббота 11:00 - 13:00
       </timeshort>
       <announce>
@@ -331,27 +321,6 @@
       <day>Monday, 19:00</day>
       <day>Saturday, 11:00</day>
     </schedule>
-
-    <changes>
-      <announce>
-        В среду 8 мая будет занятие вместо тибетской йоги, начало в 19:00
-      </announce>
-      <begin>2019-05-06</begin>
-      <end>2019-05-12</end>
-      <day>Monday, 19:00</day>
-      <day>Wednesday, 19:00</day>
-      <day>Saturday, 11:00</day>
-    </changes>
-
-    <changes>
-      <announce>
-        Начиная с 6 мая занятия по пятницам проводиться не будут.
-      </announce>
-      <begin>2019-05-13</begin>
-      <end>2019-05-19</end>
-      <day>Monday, 19:00, Весна</day>
-      <day>Saturday, 11:00</day>
-    </changes>
 
     <changes>
       <announce>
