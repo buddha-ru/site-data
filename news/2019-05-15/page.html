@@ -1,6 +1,7 @@
 ---
 title: "Построение мандалы Будды Медицины в Москве"
 publish_date: "2019-05-15"
+scripts: "https://api-maps.yandex.ru/2.1/?lang=ru_RU"
 pin: true
 ---
 
@@ -84,15 +85,14 @@ pin: true
   </tbody>
   <tbody>
     <tr><td rowspan="2">
-              Вс, 2 июня </td><td>  12:00          </td><td>  ритуальное разрушение Мандалы   </td></tr>
-    <tr>                      <td>                 </td><td>  ритуал подношения нагам<b>*</b> </td></tr>
+              Вс, 2 июня </td><td>  12:00 - 13:30  </td><td>  ритуальное разрушение Мандалы   </td></tr>
+    <tr>                      <td>  14:30          </td><td>  ритуал подношения нагам<b>*</b> </td></tr>
     <tr><td>             </td><td>                 </td><td>                                  </td></tr>
   </tbody>
 </table>
 </div>
 
-<p><b>*</b> Ритуал подношения нагам пройдет на берегу Москвы-реки, место будет уточнено позже. Дхарма-центр
-организует трансфер до выбранного места проведения ритуала.</p>
+<p><b>*</b>место проведения обозначено ниже на карте</p>
 
 </div>
 
@@ -141,6 +141,37 @@ pin: true
 </div>
 
 <span class="space"/>
+
+<div class="side">
+
+<h2> Место проведения ритуала подношения нагам </h2>
+
+<script>
+ymaps.ready(function () {
+    var map = new ymaps.Map('river', {
+            center: [55.674307, 37.680536],
+            zoom: 14,
+        });
+    map.behaviors.disable('scrollZoom');
+    if (Modernizr.touchevents) {
+      map.behaviors.disable('drag');
+      fullscreen = map.controls.get('fullscreenControl')
+      fullscreen.events.add('fullscreenenter', function() {
+        this.behaviors.enable('drag');
+      }, map);
+      fullscreen.events.add('fullscreenexit', function() {
+        this.behaviors.disable('drag');
+      }, map);
+    }
+
+    map.geoObjects
+    .add(new ymaps.Placemark([55.671307, 37.680536]));
+});
+</script>
+
+<span class="yandex-map" id="river"></span>
+
+</div>
 
 <div class="side">
 
