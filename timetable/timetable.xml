@@ -133,14 +133,6 @@
       <day>Friday, 19:00-21:00</day>
     </schedule>
 
-    <changes>
-      <announce>
-          Занятие 31 мая отменяется всвязи с <a href="/news/2019-05-15/">ритуалом построения Мандалы</a>
-      </announce>
-      <begin>2019-05-27</begin>
-      <end>2019-06-02</end>
-    </changes>
-
     <cancel>2019-06-07</cancel>
   </classes>
 
@@ -158,14 +150,6 @@
       <begin>2019-05-30</begin>
       <day>Thursday, 19:00-21:00</day>
     </schedule>
-
-    <changes>
-      <announce>
-          Занятие 30 мая отменяется всвязи с <a href="/news/2019-05-15/">ритуалом построения Мандалы</a>
-      </announce>
-      <begin>2019-05-27</begin>
-      <end>2019-06-02</end>
-    </changes>
   </classes>
 
 <!-- ******************************* Философия ********************************* -->
@@ -214,14 +198,6 @@
       <begin>2018-06-04</begin>
       <end>2018-06-10</end>
       <day>Sunday, 17:00</day>
-    </changes>
-
-    <changes>
-      <announce>
-          Занятие 1 июня отменяется всвязи с <a href="/news/2019-05-15/">ритуалом построения Мандалы</a>
-      </announce>
-      <begin>2019-05-27</begin>
-      <end>2019-06-02</end>
     </changes>
 
     <cancel>2018-05-26</cancel>
@@ -285,14 +261,6 @@
 
     <changes>
       <announce>
-          Занятие 29 мая отменяется всвязи с <a href="/news/2019-05-15/">ритуалом построения Мандалы</a>
-      </announce>
-      <begin>2019-05-27</begin>
-      <end>2019-06-02</end>
-    </changes>
-
-    <changes>
-      <announce>
           занятие 5 июня пройдет на втором этаже в красном зале
       </announce>
       <begin>2019-06-03</begin>
@@ -332,14 +300,6 @@
       <day>Monday, 19:00-21:00</day>
       <day>Saturday, 11:00-13:00</day>
     </schedule>
-
-    <changes>
-      <announce>
-          Занятия 27 мая и 1 июня отменяются всвязи с <a href="/news/2019-05-15/">ритуалом построения Мандалы</a>
-      </announce>
-      <begin>2019-05-27</begin>
-      <end>2019-06-02</end>
-    </changes>
 
     <changes>
       <announce>
@@ -473,44 +433,6 @@
       <a href="/news/2019-04-25/">Лекция о тибетской медицине</a>
     </title>
     <date>2019-05-13, 19:00-21:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="/news/2019-05-15/">ритуал очищения и благословения</a>
-    </title>
-    <date>2019-05-28, 10:00-11:50</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="/news/2019-05-15/">Цог с Учителем и делегацией</a>
-    </title>
-    <date>2019-05-29, 19:00-21:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="/news/2019-05-15/">благословение Будды Медицины</a>
-    </title>
-    <date>2019-06-01, 12:00-14:00</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="/news/2019-05-15/">разрушение Мандалы</a>
-    </title>
-    <date>2019-06-02, 12:00-13:30</date>
-  </event>
-
-  <event>
-    <title>
-      <a href="/news/2019-05-15/">построение/созерцание Мандалы</a>
-    </title>
-    <date>2019-05-28, 12:00-18:00</date>
-    <date>2019-05-29, 10:00-18:50</date>
-    <date>2019-05-30, 10:00-22:00</date>
-    <date>2019-05-31, 10:00-22:00</date>
   </event>
 
   <event>
