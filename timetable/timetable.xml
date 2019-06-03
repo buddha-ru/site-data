@@ -291,6 +291,15 @@
       <end>2019-06-02</end>
     </changes>
 
+    <changes>
+      <announce>
+          занятие 5 июня пройдет на втором этаже в красном зале
+      </announce>
+      <begin>2019-06-03</begin>
+      <end>2019-06-09</end>
+      <day>Wednesday, 19:00-21:00, Весна</day>
+    </changes>
+
     <cancel>2018-09-19</cancel>
     <cancel>2018-10-31</cancel>
     <cancel>2018-11-14</cancel>
@@ -330,6 +339,15 @@
       </announce>
       <begin>2019-05-27</begin>
       <end>2019-06-02</end>
+    </changes>
+
+    <changes>
+      <announce>
+          7 июня пройдет дополнительное занятие, начало в 19:00
+      </announce>
+      <begin>2019-06-03</begin>
+      <end>2019-06-09</end>
+      <day>Friday, 19:00-21:00</day>
     </changes>
 
     <cancel>2018-10-08</cancel>
