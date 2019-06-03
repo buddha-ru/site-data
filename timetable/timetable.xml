@@ -303,11 +303,13 @@
 
     <changes>
       <announce>
-          7 июня пройдет дополнительное занятие, начало в 19:00
+          7 июня будет дополнительное занятие, начало в 19:00
       </announce>
       <begin>2019-06-03</begin>
       <end>2019-06-09</end>
+      <day>Monday, 19:00-21:00</day>
       <day>Friday, 19:00-21:00</day>
+      <day>Saturday, 11:00-13:00</day>
     </changes>
 
     <cancel>2018-10-08</cancel>
