@@ -1,6 +1,5 @@
 ---
 menu: "О ЦЕНТРЕ"
-scripts: "https://api-maps.yandex.ru/2.1/?lang=ru_RU"
 ---
 
 <div class="site-header">
@@ -58,33 +57,8 @@ scripts: "https://api-maps.yandex.ru/2.1/?lang=ru_RU"
 </div>
 </div>
 
-<script>
-ymaps.ready(function () {
-    var map = new ymaps.Map('map', {
-            center: [55.778685, 37.672779],
-            zoom: 15,
-        });
-    map.behaviors.disable('scrollZoom');
-    if (Modernizr.touchevents) {
-      map.behaviors.disable('drag');
-      fullscreen = map.controls.get('fullscreenControl')
-      fullscreen.events.add('fullscreenenter', function() {
-        this.behaviors.enable('drag');
-      }, map);
-      fullscreen.events.add('fullscreenexit', function() {
-        this.behaviors.disable('drag');
-      }, map);
-    }
-
-    map.geoObjects
-    .add(new ymaps.Placemark([55.778685, 37.672779], {
-        iconCaption: 'Дхарма-центр'
-    }, {
-        preset: 'islands#redDotIconWithCaption'
-    }))
-});
-</script>
-
-<span class="yandex-map" id="map"></span>
+<span class="yandex-map" placemark="55.778685, 37.672779"
+                         zoom="15"
+                         caption="Дхарма-центр"/>
 
 </div> <!-- contacts -->

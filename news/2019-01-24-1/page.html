@@ -1,7 +1,6 @@
 ---
 title: "Ретрит по Лоджонгу - 2019"
 publish_date: "2019-01-24 21:00"
-scripts: "https://api-maps.yandex.ru/2.1/?lang=ru_RU"
 ---
 
 <p>Дорогие друзья! С 12 по 14 апреля в Подмосковье состоится ретрит по Лоджонгу,
@@ -241,35 +240,13 @@ href="https://goo.gl/forms/N33UxWb3N0UJFUDz1" target="_blank">форму</a>,
 
 </div> <!-- side -->
 
-<!-- i can't disable scroll zoom when using frame... -->
-<script>
-ymaps.ready(function () {
-    var map = new ymaps.Map('ershovo', {
-            center: [55.764729, 36.864185],
-            zoom: 11,
-        });
-    map.behaviors.disable('scrollZoom');
-    if (Modernizr.touchevents) {
-      map.behaviors.disable('drag');
-      fullscreen = map.controls.get('fullscreenControl')
-      fullscreen.events.add('fullscreenenter', function() {
-        this.behaviors.enable('drag');
-      }, map);
-      fullscreen.events.add('fullscreenexit', function() {
-        this.behaviors.disable('drag');
-      }, map);
-    }
-
-    map.geoObjects
-    .add(new ymaps.Placemark([55.764942, 36.870357], {
-        hintContent: 'Дом отдыха «Ершово»',
-        balloonContent: 'Дом отдыха «Ершово» +7 495 597‑50-19, +7 495 597‑50-20'
-    }));
-});
-</script>
-
 <div class="side">
-<span class="yandex-map" id="ershovo"></span>
+
+<span class="yandex-map" placemark="55.764942, 36.870357"
+                         zoom="11"
+                         hint="Дом отдыха «Ершово»"
+                         balloon="Дом отдыха «Ершово» +7 495 597‑50-19, +7 495 597‑50-20"/>
+
 </div> <!-- side -->
 
 <hr/>
