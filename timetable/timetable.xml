@@ -275,6 +275,16 @@
       <day>Сб, 11:00-13:00</day>
     </changes>
 
+    <changes>
+      <announce>
+          Занятие 15 июня пройдет в помещении "Весны" в красном зале
+      </announce>
+      <begin>2019-06-10</begin>
+      <end>2019-06-16</end>
+      <day>Пн, 19:00-21:00</day>
+      <day>Сб, 11:00-13:00, Весна</day>
+    </changes>
+
     <cancel>2018-10-08</cancel>
     <cancel>2018-10-19</cancel>
     <cancel>2018-12-10</cancel>
