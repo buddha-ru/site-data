@@ -11,3 +11,7 @@ table.days {
 }
 
 table.beginners { max-width: 500px; }
+
+table.shamatha {
+  colgroup col:nth-child(1) { width: 80px; }
+}
