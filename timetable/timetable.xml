@@ -127,14 +127,10 @@
     </info>
 
     <schedule>
-      <timeshort>Четверг 19:00 - 21:00, с 30 мая</timeshort>
-      <begin>2019-05-30</begin>
-      <end>2019-07-18</end>
+      <timeshort>Четверг 19:00 - 21:00, с 5 сентября</timeshort>
+      <begin>2019-09-05</begin>
       <day>Чт, 19:00-21:00</day>
     </schedule>
-
-    <cancel>2019-06-27</cancel>
-    <cancel>2019-07-11</cancel>
   </classes>
 
 <!-- ******************************* Философия ********************************* -->
