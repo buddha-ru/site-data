@@ -259,6 +259,17 @@
       <day>Пт, 19:00-21:00</day>
     </schedule>
 
+    <changes>
+      <announce>
+        В субботу 31 августа будет дополнительное занятие в 11:00.
+      </announce>
+      <begin>2019-08-26</begin>
+      <end>2019-09-01</end>
+      <day>Пн, 19:00-21:00</day>
+      <day>Пт, 19:00-21:00</day>
+      <day>Сб, 11:00-13:00</day>
+    </changes>
+
     <cancel>2018-10-08</cancel>
     <cancel>2018-10-19</cancel>
     <cancel>2018-12-10</cancel>
