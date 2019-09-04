@@ -253,13 +253,14 @@
 
     <schedule>
       <timeshort>
-        Понедельник, пятница 19:00 - 21:00
+        Понедельник, пятница 19:00 - 21:00, суббота 11:00 - 13:00
       </timeshort>
       <announce>
       </announce>
       <begin>2019-08-09</begin>
       <day>Пн, 19:00-21:00</day>
       <day>Пт, 19:00-21:00</day>
+      <day>Сб, 11:00-13:00</day>
     </schedule>
 
     <cancel>2018-10-08</cancel>
