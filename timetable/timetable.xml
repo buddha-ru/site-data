@@ -132,12 +132,11 @@
 
     <changes>
       <announce>
-        занятия 19 сентября, 26 сентября и 3 октября переносятся
-        на вторник
+        занятие 3 октября переносится на пятницу
       </announce>
-      <begin>2019-09-16</begin>
-      <end>2019-10-06</end>
-      <day>Вт, 19:00-21:00</day>
+      <begin>2019-09-30</begin>
+      <end>2019-11-06</end>
+      <day>Пт, 19:00-21:00</day>
     </changes>
 
     <cancel>2019-09-24</cancel>
@@ -286,6 +285,7 @@
     <cancel>2019-04-29</cancel>
     <cancel>2019-05-04</cancel>
     <cancel>2019-08-09</cancel>
+    <cancel>2019-10-04</cancel>
   </classes>
 
 
