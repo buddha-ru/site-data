@@ -127,6 +127,7 @@
     <schedule>
       <timeshort>Четверг 19:00 - 21:00, с 5 сентября</timeshort>
       <begin>2019-09-05</begin>
+      <end>2019-10-31</end>
       <day>Чт, 19:00-21:00</day>
     </schedule>
 
@@ -180,6 +181,7 @@
     <schedule>
       <timeshort>Суббота 17:00 - 19:00, с 7 сентября</timeshort>
       <begin>2019-09-07</begin>
+      <end>2019-11-02</end>
       <day>Сб, 17:00-19:00</day>
     </schedule>
 
