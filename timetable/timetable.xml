@@ -313,6 +313,19 @@
       <day>Пт, 19:00-21:00</day>
     </schedule>
 
+    <schedule>
+      <timeshort>
+        пятница 19:00 - 21:00, воскресенье 11:00 - 13:00
+      </timeshort>
+      <announce>
+        На время осеннего цикла Учений число занятий сокращается
+      </announce>
+      <begin>2019-11-11</begin>
+      <day>Пт, 19:00-21:00</day>
+      <day>Вс, 11:00-13:00</day>
+    </schedule>
+
+
     <cancel>2018-10-08</cancel>
     <cancel>2018-10-19</cancel>
     <cancel>2018-12-10</cancel>
