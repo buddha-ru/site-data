@@ -166,7 +166,8 @@
 
     <schedule>
       <timeshort>Суббота 17:00 - 19:00, с 11 января</timeshort>
-      <begin>2020-01-11</begin>
+      <begin>2019-01-11</begin>
+      <end>2019-01-12</end>
       <day>Сб, 17:00-19:00</day>
     </schedule>
   </classes>
