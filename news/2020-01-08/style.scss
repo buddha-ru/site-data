@@ -9,3 +9,8 @@ table.days {
   tbody.days, tbody.header { tr td:nth-child(1) { text-align: center; } }
   min-width: 320px;
 }
+
+table.beginners {
+  min-width: 350px;
+  max-width: 350px;
+}
