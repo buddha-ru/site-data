@@ -110,6 +110,7 @@
     <schedule>
       <timeshort>Пятница 19:00 - 21:00, с 24 января</timeshort>
       <begin>2020-01-24</begin>
+      <end>2020-03-13</end>
       <day>Пт, 19:00-21:00</day>
     </schedule>
   </classes>
@@ -129,6 +130,7 @@
     <schedule>
       <timeshort>Четверг 19:00 - 21:00, с 16 января</timeshort>
       <begin>2020-01-16</begin>
+      <end>2020-03-12</end>
       <day>Чт, 19:00-21:00</day>
     </schedule>
   </classes>
