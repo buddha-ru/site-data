@@ -60,8 +60,8 @@
       <day>Пн, 19:00-21:00</day>
       <day>Чт, 19:00-21:00</day>
       <day>Сб, 12:00-14:00</day>
-      <begin>2020-03-19</begin>
-      <end>2020-04-16</end>
+      <begin>2019-03-19</begin>
+      <end>2019-04-16</end>
     </schedule>
 
     <hide>2020-04-11</hide>
@@ -358,6 +358,7 @@
       <date>2021-01-23, 19:15-21:00</date>
       <date>2021-02-06, 19:15-21:00</date>
     </schedule>
+    <cancel>2020-03-18</cancel>
   </classes>
 
 
@@ -407,6 +408,13 @@
       <a href="/news/2020-03-02/">Праздничный Цог</a>
     </title>
     <date>2020-03-09, 19:15-21:00</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="/news/2020-03-17/">Цог c Учителем</a>
+    </title>
+    <date>2020-03-19, 19:00-21:00</date>
   </event>
 
 </timetable>
