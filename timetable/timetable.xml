@@ -247,6 +247,8 @@
       <day>Пт, 19:00-20:45</day>
       <day>Вс, 11:00-13:00</day>
     </schedule>
+
+    <cancel>2020-07-24</cancel>
   </classes>
 
 
@@ -389,6 +391,13 @@
       <a href="/news/2020-06-11/">Трансляция Учения</a>
     </title>
     <date>2020-07-06, 12:00-14:00</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="/news/2020-07-16/">Праздничный Цог</a>
+    </title>
+    <date>2020-07-24, 19:15-21:00</date>
   </event>
 
 </timetable>
