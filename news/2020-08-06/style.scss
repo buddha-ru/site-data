@@ -1,0 +1,6 @@
+table.days {
+  colgroup col:nth-child(1) { width: 80px; }
+  tbody.month td { text-align: center; }
+  tbody.days, tbody.header { tr td:nth-child(1) { text-align: center; } }
+  min-width: 320px;
+}
