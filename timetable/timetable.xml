@@ -355,6 +355,7 @@
     <hide>2020-10-12</hide>
     <cancel>2020-10-26</cancel>
     <cancel>2020-11-10</cancel>
+    <hide>2021-02-06</hide>
   </classes>
 
 
@@ -391,5 +392,12 @@
     </title>
     <date>2020-10-12, 19:00-21:00</date>
     <cancel>2020-10-12</cancel>
+  </event>
+
+  <event>
+    <title>
+      Цог c Учителем
+    </title>
+    <date>2021-02-06, 19:00-21:00</date>
   </event>
 </timetable>
