@@ -60,6 +60,7 @@
       <begin>2021-03-15</begin>
       <end>2021-04-17</end>
     </schedule>
+    <hide>2021-04-01</hide>
     <hide>2021-04-03</hide>
     <hide>2021-04-05</hide>
     <hide>2021-04-08</hide>
@@ -410,5 +411,10 @@
       <a href="/news/2021-02-23/">Праздничный Цог</a>
     </title>
     <date>2021-02-27, 19:15-21:00</date>
+  </event>
+
+  <event>
+    <title>Цог с Геше-ла</title>
+    <date>2021-04-01, 19:00-21:00</date>
   </event>
 </timetable>
