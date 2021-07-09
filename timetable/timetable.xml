@@ -365,6 +365,7 @@
     <hide>2021-02-06</hide>
     <cancel>2021-03-23</cancel>
     <cancel>2021-06-04</cancel>
+    <hide>2021-07-19</hide>
   </classes>
 
 
@@ -483,5 +484,19 @@
       <a href="/news/2021-07-02/">Йога. Семинар.</a>
     </title>
     <date>2021-07-10, 19:00-21:00</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="/news/2021-07-09/">Праздничный Цог</a>
+    </title>
+    <date>2021-07-14, 19:15-21:00</date>
+  </event>
+
+  <event>
+    <title>
+      <a href="/news/2021-07-09/">Праздничный Цог</a>
+    </title>
+    <date>2021-07-19, 19:15-21:00</date>
   </event>
 </timetable>
